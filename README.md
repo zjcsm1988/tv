@@ -210,7 +210,7 @@ BBSTV,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 韩国基督教CGNTV韩国,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
 EBS 2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 EBSe,http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-韩国Arirang TV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国ArirangTV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 YTN Science,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 EBS Kids,http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 韓國FTVLIVE,http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
@@ -260,3 +260,5 @@ NHK BSプレミアム;,http://203.162.235.41:16910
 日テレ,http://203.162.235.41:16905
 フジテレビ,http://203.162.235.41:16904
 NHK総合,http://203.162.235.41:16903
+18禁,#genre#
+
