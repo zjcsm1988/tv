@@ -60,6 +60,19 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
 原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 香港,#genre#
+AOD,http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+Arena
+双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+华丽台,http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+欢喜台,http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+boo恐怖片,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+全佳台,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+Astro爱奇艺,http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+天映频道,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
