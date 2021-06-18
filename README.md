@@ -807,7 +807,7 @@ NGC,tvbus://5m91x7BRLZtBuvFynmuPnCFqSqX78LpLM9jnc1my2KEo3FEiL7xPmbxLFJT2e
 디즈니주니어,tvbus://5VcZtBjdeiWT1Rkx346JCNWtCvL2ovKcapfjPfconpTwJyZ4AzKrwNFA6bwQA
 투니버스,tvbus://5sWUP3sE3L8wQAGEVKUk2bVedTQVA8dQ6kypTMryi7FyPdQBhtpvB5EkAhsX9
 Arirang,tvbus://6NpQ7fio1zfp8zHR9M65f1LoqwAVqPF2aNAYEM5ZC1ynk14TPsCYizTdJ7nHs
-国际2,#genre#
+Global,#genre#
 HBO_HD,tvbus://5g7NaB7D2Ro6A1q6kHELAdczsLhfbhEFfwnXM3UR3Qu5zhjxwzchXvkRVrgxX
 FOX_HD,tvbus://6Hn97tQ34VLtKdp8cafQBctQdyxDW7gN8FviCzR3YcXZnhbBNhjXgjL7zdHhi
 FOX_Movies_HD,tvbus://5TCPkxa6rnkQoAeYRF52jR9mqqdCx6BNeAuKNmwAezef3xrxBvLqNfkG4JtAH
@@ -1384,6 +1384,8 @@ QRT,tvbus://5bTVsPfkqZLuppPyXc3vnnrCtnruosCFkfFxMLni55GWE2kJKjHujK7qMjG8a
 DRT_Da_Nang1,tvbus://5xewi3f1ptr35Hwp6Jbw6bUESh81ToEf61FZG25M2PHaSspbyZL3TEsvszjFM
 DRT1,tvbus://67YUjZeHM32rSkvDBhRmMFZ19zW7fSnsPVfP1N1QwUruLgT5Qmg4YocVkRacH
 体育,#genre#
+ELEVEN1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+ELEVEN2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 緯來體育,tvbus://6Zc9RRLhY8hh38HmQXQHgxrsffsw6nRwvfFJLWvPBBhRG36nf9X2bYQAoazxA
 FOX_SPORTS_HD,tvbus://6ZoiQNkhZSPfY9s3VffwMPXEusncCbcjNAu7vKNZTtdhdZ76CfFMd13z4ABBH
 FOX_SPORTS_2,tvbus://6W2ozVmfTVdGadVhv6F75zwX5VYtnKAvYxri9bnd9WxsUyFhtScGgbuXKxXBe
