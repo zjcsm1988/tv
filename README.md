@@ -1,4 +1,4 @@
-4K测试,Export from 影音宝 - 听你想听的，看你想看的
+4K测试,#genre#
 ↑硬解码↑,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
 CCTV4Kⓤ,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8
 CCTV4Kⓤ,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
