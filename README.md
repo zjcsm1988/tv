@@ -181,6 +181,12 @@ TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 J2,http://61.238.6.49:8001/bysid/82
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱三台,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 无线财经,http://livetv.dnsfor.me:80/channel.11.m3u8
 香港国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
 无线财经,https://cdn.hkdtmb.com/hls/85/index.m3u8
