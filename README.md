@@ -143,6 +143,7 @@ TVBS新闻,http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=183
 年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新闻,http://125.227.210.37:15078/VideoInput/play.ts
 HBO,http://125.227.210.37:16027/VideoInput/play.ts
+HBO,http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
 东森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
 FOX,http://125.227.210.37:13498/VideoInput/play.ts
