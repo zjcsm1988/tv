@@ -138,7 +138,7 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
-TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+TVBS新闻,http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
 年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
 非凡新闻,http://125.227.210.37:15078/VideoInput/play.ts
