@@ -122,6 +122,7 @@ CCTV-17农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/inde
 民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
 民视第一,http://seb.sason.top/ptv/ftv.php?id=dy
 民视,http://seb.sason.top/ptv/ftv.php?id=ms
+民视,http://198.16.106.62:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
