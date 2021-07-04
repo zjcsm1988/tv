@@ -2597,8 +2597,83 @@ Imode时尚频道,http://gerss.cn/8088/migu.php?id=665063310
 汉口龙王庙,http://gerss.cn/8088/migu.php?id=670426962
 瓯江三桥,http://gerss.cn/8088/migu.php?id=671441336
 印象南塘,http://gerss.cn/8088/migu.php?id=671441428
-18禁,#genre#
-极限电影台,P2p://ns1.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
-极限电影台,P2p://147.135.39.171:9906/5f36af0b000596f594e332a916d829bd
-极限电影台,tvbus://4YLeJUQrUNZmxGFLXCUwfyCG76knBfnkGPAz4SVy9kAEjdZsK3
-极限电影台,tvbus://3iJYHQLExJhHW2586ZAL4i5qG25nZqbQZHg4fvaiUQA4BUmxJJ
+18+,#genre#
+松視1台1,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
+松視1台2,tvbus://5gUgLBidTirnmiJ4yuWwB3TQFYHRFJurgurE2zVavBD6Ju8PcGCpHJD4BBQVJ
+松視2台1,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
+松視2台2,tvbus://5pkBbscjs3HQG382dxuhd9vqNvFksoYDp54PsbVoS5Yb8LDPhdv7BUB7gQGRp
+潘多拉完美1,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
+潘多拉完美2,tvbus://6gDT6RSRhAM87JfZFB6zjJkq3s9jxDADVHq2DGBgAPf7bEFcokN2JEhHGKyhf
+彩虹電影1,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
+彩虹電影2,tvbus://6Sty6Um7mF5ekcuESGyKzSG2qNSXVkSPC7eER3HYFUXJAsD6sR99QtR1ax1Sm
+彩虹E台1,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
+彩虹E台2,tvbus://5KSeNsrKY3wGJKpUPSBNW2962K5ddSWEQX525xt56pgG6FEjyTzcDkcUFVxUa
+驚艷台1,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
+驚艷台2,tvbus://6FL7HuhBxr8Bfhq4WzonUFhifTe8oNKsa1hQnLMzHepn46itxSpzkayaVEBXn
+極限電影,tvbus://6Cut46PBMejuFgxUEWoRa9Neyf1qJBg6vkPX78vkVH71dnNZ1cbH4fup3TZ72
+香蕉台,tvbus://6J9dyGNgEHuNe5khCxhehTFtte4gxEBAnEEZfnzrpjcMPTcwR2ktikyXWZ72f
+LOOK,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
+Mature,tvbus://5LEMrHGaq9xHdH6X7w788ggbUf12huvaPeS5kepsxNED5jcf8XeUn5BQdCBjs
+Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
+HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
+Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
+Mature,tvbus://5LEMrHGaq9xHdH6X7w788ggbUf12huvaPeS5kepsxNED5jcf8XeUn5BQdCBjs
+Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
+HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
+Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
+Fetish,tvbus://5SBVvaU8SPvEPAj9YnD2ZnGHyzZJptZTWZYZU6ohQDtFxjK9Ysx77bx4Yhv8W
+Erotic,tvbus://5i6o9iq4vofeNi4BnHCvk7MnzCyaJTxmF51Xe1PGnPGrKTAZw12bfMRBV5Ten
+Ebony,tvbus://5U8Jumknpip7e6G4NVLvpUQMbPyMpv1KYDDRBKivDFtjpm6Zt9JEpGzb2AqtT
+Blowjob,tvbus://5Q5mYj9gbLRRQj4MxgmXBhmcSFGwPUWFyRiNEgGKviHa4aNnwC1ap8MnC3YRk
+Asian,tvbus://5Y7X5S1tXaKWzYGkLCLMpQmCxeqRp6D3ic44sGUycsvPFTjfe8x9TohBHp2m1
+Anal,tvbus://5osr7P4ypNDCyezATSCh9obUAS1AHxskSgYhEshis474Chw6yFZDYpjw1Kety
+Cunnilingus,tvbus://6AKvjLvuV4HZWWfF4N7e9C8nTf4WXjf3nbxTpVQ48RpxZsoMxtvjQweuNM67y
+Blonde,tvbus://6GJvRaJ4c5syceGCPzhUZ94oU1jqcXbgbhnWb7kUEvJCF97BEuMCwh9ZVNTV2
+Solo_girl,tvbus://5VR7mqVSakfaWw7P5abGxoo1WwDZoZBMFxrZjm6nSRpmyPps8i7wEkkYeVTQ7
+Couples,tvbus://6MG3CU1qZLtY6gXgv8ebX6uWiDphdDV8AnSLz6tQ1RcySy3nLELGPSNhEEsuJ
+Big_Butt,tvbus://5fVtuwSoo51rw15dDC1xaUtzzenfWuDdXdPnc1tbP7siLZg2GytWEME7cEfCy
+Creampie,tvbus://6ZWm2UXfXWsH5U6ac6U8CnJtDa79BSw8ng6JSWM4zTL9tukeXAZA7uVNEtJBC
+Interracial,tvbus://5hLUxSnR7QqBf7CPCpJDpRcn1Eb5jfgfDdZ4BYsdkQ1ArRoETx8XH6ZwmxhwK
+Masturbation,tvbus://5NMLj2vzrAm3zsMHKZtYibUZo7GHv4LhLqoU3RDvcaizBBnyGw3hWkJmgQRtb
+BBW,tvbus://5s5QKbAEVVydtNeWmWSZSedVg98vCrCdk5CdHyWmU9HEjjXkAwrUrLYgf6cjA
+Shemale,tvbus://6L2yGgC63zyHdTBkzsGHEFbnMumDomz4iqKXmy3Hh5srNT25hS4tVtWpDCuuH
+Young/Old,tvbus://6ZBgqUqRmWeNyBRK2fzdfkZqSJXTFesZpHMUW2MuzNB1a8AoGHqw97QsXKDMc
+German,tvbus://6hVaMUQhgohJ6FiW7cHHTgjrorGrsZ2ea9YgBJN56LdUvZ6Y78oRzvuPohYYp
+Orgy,tvbus://5zeoaJcV9kW2RpDstH5vBSV2dzFaZufZRkdkKaBHVHCyE2qRbP5tGqKUx6prk
+Public,tvbus://6Nbt5fnEL1jYFsEPawdqxv24Ay8TY23ibs7e5f5Va5YBx3f4Tdq9TnY9qzrym
+Amateur,tvbus://5br94endWTsJxEwXFo7vaFme3ZJnmVNEe14hnyqQQ5mh9xMvBrVnc3GStSpsi
+Big_Tits,tvbus://6MBhfEuDcTzUjYFhJywnJHTYd7x5ZboxApCw5aBwgqNwQcwqvsLnxurMqatV9
+Threesome,tvbus://5XRrqeWsnGsLQxYM4TBrM89k7aSRRtpn1LsdFuWjbXnFsMX4xActMRLZrK78W
+Teen,tvbus://5LHxQydQgadc2m2TZ87sqXT82n1VbSNovhZGqXqNVAVYXH9GQiqmtE5MkPdxv
+Strip,tvbus://5UBsrhK3nL3Zqwfpi9ew7UfAzdXBVVVR8DVJZ1keQZfpNHESmKx2av4VKStVe
+Milf,tvbus://69Z4tXWLnbcvzUbM9PiUojGBdqiqHJvDQknY62R52yvEvkKLQs4ybkCdGi18M
+Mature,tvbus://6EPF9Tkxt3pCT2M5HchYQyHzvrk5aaTrPG3pKkWHzqtgU9MbMmCt3M4ZmZwPp
+Latina,tvbus://5V5pNtHFDoCoUGnxLe3GGxGVLY6FxQ7Cf2F8bDmfjZAPsJq2YRXcgogKEa6Vx
+HD,tvbus://6gVuu4Avpgt7fQgTHNt4bq2tKL7aUZsjvbLLjEPeGfyQfgtPiJ4ReXay4Ueet
+Hardcore,tvbus://64czTCkBegyF5VhFtEuGfQrYtvhdML1DNPiRe4Ld8qYrX45LwzngrnHvRSCV2
+Fetish,tvbus://6MgSmWSk3GTq5Ysr9PiPsxs2uvqU56ot38qy2iv71Ajeq98e1no2msXxtQbDw
+Erotic,tvbus://6Pbj72ZEso5Ngsntpj3NYGMjfayjrrJoG41956HA1UPYRZLAnDVeP4C4eDpMB
+Ebony,tvbus://6Siaoo8Jw6U6KHiBdA51fzKMRUG8zn5EtajHydnbNjbxnFpsezeu8bzQk5q5G
+Blowjob,tvbus://5THhXFyK87Jo7FBAcP4LJABsBuyxxZSgYQ8Jt7veaQHymeztH7PKDP1kGoTy2
+Asian,tvbus://6Wff1BCSxnCV2mKPyiLfW5XmmseNRe5QdvWiZeBW7JEsr4ZaaGX7NJnHbghMY
+Anal,tvbus://6harqN7M8mo9R3PS6pz7p1CyWMVRjPKWo8d5iCK5uoWWk61pJxFuMX93srRZP
+HOTH,tvbus://5M6U24c7r6sMG4u39wSAjnzZRKKueWuHFVWCKXsZdgacC3MGaJ8skYLr1rnkp
+RUsskayanoch,http://93.189.224.117:9030/russkayanoch
+hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
+redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
+FashionTV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+XXX: REDLIGHT,http://tv1.cs10.tv:80/leopoldo/leopoldo/2210
+Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
+Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
+Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
+Adult Pinko 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87441
+Adult Pinko 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87442
+Adult Paradise 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91592
+Adult Paradise 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91593
+Adult Paradise 3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91594
+Adult Paradise 4,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91595
+Adult Paradise,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91596
+Adult Paradise 6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91597
+Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
+Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
+Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
