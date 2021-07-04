@@ -2597,3 +2597,66 @@ Imode时尚频道,http://gerss.cn/8088/migu.php?id=665063310
 汉口龙王庙,http://gerss.cn/8088/migu.php?id=670426962
 瓯江三桥,http://gerss.cn/8088/migu.php?id=671441336
 印象南塘,http://gerss.cn/8088/migu.php?id=671441428
+18禁,#genre#
+奧視驚艷台,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.ts
+彩虹e台,mitv://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.ts
+彩虹电影台,http://ws.matchupstream.tuboshu.com/live/lsonsee4kkee00w09wwewewe3.flv|1
+彩虹电影台,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.ts
+LOOK,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.ts
+松视1,mitv://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.ts
+松视1,mitv://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.ts
+松视2,mitv://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.ts
+松视2,mitv://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.ts
+潘朵拉粉红台,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.ts
+潘朵拉玩美台,http://ws.matchupstream.tuboshu.com/live/Perfectpandora88869.flv
+潘朵拉玩美台,mitv://147.135.39.171:9906/600fee6c0003b9df8ba10855530a6dc7.ts
+Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
+松視1台(翻墙),tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
+松視2台(翻墙),tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
+極限電影台(翻墙),tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR
+Look(翻墙),tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
+驚艷台(翻墙),tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
+HOT,tvbus://6TwSfX13ixWEmxSZvpBVBScVbJW7T1yGLEK99Vib5fdistnWr47pXTsU1zvYU
+HOT,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=407
+彩虹電影(翻墙),tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
+彩虹e台(翻墙),tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
+潘多拉玩美(翻墙),tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
+香蕉台(翻墙),tvbus://5Vwks9Jw5SGxTtkrbQ9DNrgE3H2M57ipNTVH1SCUbQ6rEa4DFdpALHW4Cxqon
+松視4,http://cjytv.cqdm.xyz/cjytv/api/dl/午夜频道/午夜.php?id=s4
+松視1,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=402
+松視2,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=403
+松視3,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=404
+潘朵拉完美,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=410
+潘朵拉粉紅,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=411
+彩虹電影,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=413
+彩虹K,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=406
+彩虹E,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=405
+一本道,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=414
+二本道,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=415
+東京熱,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=416
+happy,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=412
+驚豔台,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=409
+Erox HD,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=456
+Dorcel HD,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=454
+Babes TV HD,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=458
+Hustler HD,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=451
+SCT Classic,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=462
+Redlight HD,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=452
+SEX ATION HD,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=459
+Super One HD,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=457
+Pr?vate TV,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=453
+Passie,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=461
+Vivid Red HD,http://cjytv.cqdm.xyz/cjytv/api/dl/港台频道/anbo.php?id=455
+松视1台(备),p8p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
+松视1台(备),tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
+松视2台(备),p8p://0818.02686.cc:20012/5f3f2d57000388660a4907928a6b1097.ts
+松视3台(备),p8p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+香蕉台(备),p8p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts
+惊艳成人电影台(备),p8p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
+潘多拉玩美(备),p8p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
+HOT(备),p8p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
+HAPPY(备),p8p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
+潘多拉粉红(备),p8p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
+彩虹MOIVE(备),p8p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+K频道(备),p8p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
+彩虹e台(备),p8p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
