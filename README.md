@@ -2,6 +2,7 @@
 ↑硬解码↑,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
 CCTV4K,http://hms483nc1880172784.live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/1.m3u8?icpid=88888888&from=1&hms_devid=483
 CCTV4K,http://live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+cCTV4K,http://39.134.176.144/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 CCTV4Kⓤ,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8
 CCTV4Kⓤ,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 纯享4K2ⓤ,http://39.135.138.58:18890/PLTV/88888910/224/3221225786/index.m3u8codeyj
