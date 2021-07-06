@@ -1530,6 +1530,7 @@ CCTV5+体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 咪咕24小时体育台,http://gerss.cn/8088/migu.php?id=654102378
 CCTV5+,tvbus://6e3xGT9UVD6oDSZgDxpf4S7CFQB1psto8QaThj8cnnUjV9c7DQV4EVi4muKFQ
 广东体育,tvbus://5jVQxPtV5yrF5W4ua67SvK7nSaeHxdLRHrNnHgRnTE6Y3GEXpeL67eGdQHT6a
+广东体育,http://93.190.139.36:8278/streams/d/gdsports/playlist.m3u8
 新視覺,tvbus://5PVcNiz6FFqDQngnfD5WZJ1m7dpeSH9KRQJU1PSL5wF3DM2wDrsgvhUQTJ2Vq
 高尔夫,tvbus://6Er99xpJQHGGefghRY5bK36BqknkzTYh5ewy8NZ8tx6sewBZKAYGgLkjoarmq
 高尔夫网球,tvbus://6CnahbzeQ6qu3S8Crv7b7dVMyDK5cHTa3RbypZe9F2hnfoWyRRGtuneYC7sY4
