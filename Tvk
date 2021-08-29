@@ -4,7 +4,126 @@ HOME4K,http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
 🇨🇳港澳,#genre#
 
 🇨🇳台湾,#genre#
-
+台视HD,rtmp://161.202.204.248/sat/tv071
+台视HD-1,rtmp://161.202.204.248:1935/sat/tv071
+台视HD-2,rtmp://59.124.75.153/sat/tv071
+中视,rtmp://161.202.204.248/sat/tv091
+中视-1,rtmp://161.202.204.248:1935/sat/tv091
+中视-2,rtmp://59.124.75.153/sat/tv091
+华视,rtmp://161.202.204.248:1935/sat/tv111
+华视-1,rtmp://161.202.204.248/sat/tv112
+华视-2,rtmp://59.124.75.153/sat/tv111
+公视,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+台视综合,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c4a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+纬来日本,rtmp://161.202.204.248:1935/sat/tv521
+纬来日本-1,rtmp://161.202.204.248:1935/sat/tv522
+纬来日本-2,rtmp://161.202.204.248/sat/tv522
+纬来日本-3,rtmp://59.124.75.153:1935/sat/tv521
+纬来育乐,rtmp://161.202.204.248/sat/tv701
+纬来育乐-1,rtmp://161.202.204.248:1935/sat/tv701
+纬来育乐-2,rtmp://59.124.75.153/sat/tv701
+纬来育乐-3,rtmp://59.124.75.153:1935/sat/tv701
+纬来体育,rtmp://161.202.204.248/sat/tv721
+纬来体育-1,rtmp://161.202.204.248:1935/sat/tv721
+纬来体育-2,rtmp://59.124.75.153/sat/tv721
+纬来体育-3,rtmp://59.124.75.153:1935/sat/tv721
+纬来体育-4,http://125.227.210.37:18358/VideoInput/play.ts
+三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on
+三立台湾-1,http://125.227.210.55:15714/VideoInput/play.ts
+三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on
+ELTA爱尔达影剧台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+ELTA爱尔达综合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+ELTA爱尔体育合1台,rtmp://59.124.75.153:1935/sat/md011
+ELTA爱尔体育合3台,rtmp://59.124.75.153:1935/sat/md051
+ELEVEN1体育,rtmp://161.202.204.248/sat/tv731
+ELEVEN2体育,rtmp://161.202.204.248/sat/tv741
+ELEVEN+,rtmp://59.124.75.153:1935/sat/md031
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+人间卫视,rtmp://161.202.204.248/sat/md041
+优视频道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+TVBS歡樂,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+TVBS欢乐台,rtmp://161.202.204.248/sat/tv421
+TVBS欢乐台-1,rtmp://59.124.75.153/sat/tv421
+TVBS欢乐台-2,rtmp://59.124.75.153:1935/sat/tv421
+中天娱乐台,http://125.227.210.55:15796/VideoInput/play.ts
+TVBS新闻台,rtmp://161.202.204.248:1935/sat/tv551
+TVBS新闻台-1,rtmp://59.124.75.153/sat/tv551
+TVBS新闻台-2,rtmp://59.124.75.153:1935/sat/tv551
+东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
+东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
+东森财经新闻-1,rtmp://59.124.75.153:1935/sat/tv571
+年代新闻,http://125.227.210.55:11055/VideoInput/play.ts
+年代新闻-1,http://125.227.210.37:11055/VideoInput/play.ts
+非凡新闻,http://125.227.210.55:15078/VideoInput/play.ts
+三立新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立新闻-1,http://125.227.210.55:15589/VideoInput/play.ts
+三立inews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新闻台-1,http://stream.nexttv.com.tw/n001/playlist.m3u8
+台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
+东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+彭博财经台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+原住民电视 (720p),http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+民视,http://seb.sason.top/ptv/ftv.php?id=ms
+民视-1,rtmp://59.124.75.153:1935/sat/tv051
+民视台湾,http://seb.sason.top/ptv/ftv.php?id=tw
+民视新闻台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民视第一,http://seb.sason.top/ptv/ftv.php?id=dy
+民视影剧,http://seb.sason.top/ptv/ftv.php?id=yj
+民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
+民视综艺,http://seb.sason.top/ptv/ftv.php?id=zy
+MoMo综合台,rtmp://59.124.75.153/sat/tv761
+MoMo综合台-1,rtmp://59.124.75.153:1935/sat/tv761
+MoMo综合台-2,rtmp://161.202.204.248/sat/tv761
+MoMo综合台-3,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv107/4gtv-live-mid/index.m3u8?token=28a2lhr_130ptgiIOvu_JA&amp;expires=1629752761&amp;token1=Leh5nK4piM4futxgmh17uQ&amp;expires1=1629752761
+东森超视,rtmp://59.124.75.153/sat/tv771
+东森超视-1,rtmp://59.124.75.153:1935/sat/tv771
+东森超视-2,rtmp://161.202.204.248:1935/sat/tv771
+东森超视-3,rtmp://161.202.204.248/sat/tv771
+东森戏剧,http://125.227.210.55:17524/VideoInput/play.ts
+东森幼幼,http://60.251.59.179:8506/xoxo.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+靖天资讯,http://61.58.60.230:9319/live/202.m3u8
+靖洋戏剧,http://61.58.60.230:9319/live/203.m3u8
+靖天育乐,http://61.58.60.230:9319/live/204.m3u8
+靖天国际,http://61.58.60.230:9319/live/205.m3u8
+靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
+靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+居家频道,http://61.58.60.230:9319/live/125.m3u8
+靖天映画,http://61.58.60.230:9319/live/243.m3u8
+韩国阿里郎,http://61.58.60.230:9319/live/130.m3u8
+Z频道,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+天映频道电影 (480p),http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+东森电影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d8a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+东森电影-1,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c8a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+东森洋片,http://125.227.210.55:18685/VideoInput/play.ts
+纬来电影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+卫视电影,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c88?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+龙华电影,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d4c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+龙祥时代电影,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
+HBO原创电影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+HBO原创电影-1,rtmp://161.202.204.248/sat/md031
+HBO family,http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
+AXN,rtmp://59.125.103.61/channel/60b4e50239e1b02e8b910c9c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+好莱坞电影,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c92?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+FOX犯罪电影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+FOX动作电影,rtmp://118.163.221.79/channel/60c2f6ca961593122ebaf8dc?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+FOX动作电影-1,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+FOX家庭电影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+FX HD,http://125.227.210.37:13498/VideoInput/play.ts
 
 🇨🇳央视,#genre#
 
