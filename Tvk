@@ -50,3 +50,8 @@ HOME4K,http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
 贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
 辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+内蒙卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+康巴卫视,http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
+海峡卫视,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil#rtsp://183.252.166.199:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
+厦门卫视,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226542/index.m3u8
+兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
