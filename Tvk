@@ -124,7 +124,91 @@ FOX动作电影,rtmp://118.163.221.79/channel/60c2f6ca961593122ebaf8dc?sign=mcnH
 FOX动作电影-1,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 FOX家庭电影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 FX HD,http://125.227.210.37:13498/VideoInput/play.ts
-
+🇨🇳台湾备用,#genre#
+中視新聞 ,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新聞 ,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中天新聞 ,http://seb.sason.top/sc/ztxw_fhd.m3u8
+東森新聞 ,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞 ,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+國家地理頻道,http://125.227.210.37:16408/VideoInput/play.ts
+中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+壹電視新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+年代新聞,http://107.167.5.66:80/mylive/102/2050/index.m3u8
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
+三立新闻,http://125.227.210.37:15589/VideoInput/play.ts
+非凡新聞,http://107.167.5.66:80/mylive/102/2058/index.m3u8
+非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
+HBO,http://125.227.210.37:16027/VideoInput/play.ts
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
+緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
+民视,rtmp://59.124.75.153/sat/tv051
+台视,rtmp://59.124.75.153/sat/tv071
+中视,rtmp://59.124.75.153/sat/tv091
+华视,rtmp://59.124.75.153/sat/tv111
+TVBS欢乐,rtmp://59.124.75.153:1935/sat/tv421
+TVBS欢乐,rtmp://59.124.75.153/sat/tv421
+TVBS欢乐,rtmp://161.202.204.248/sat/tv422#rtmp://161.202.204.248/sat/tv421
+TVBS欢乐,rtmp://161.202.204.248:1935/sat/tv421
+TVBS新聞,rtmp://59.124.75.153/sat/tv551
+TVBS新聞,rtmp://59.124.75.153:1935/sat/tv551
+TVBS新聞,rtmp://161.202.204.248:1935/sat/tv551
+TVBS新聞,rtmp://161.202.204.248/sat/tv551
+东森财经新闻,rtmp://59.124.75.153:1935/sat/tv571
+东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
+东森超视,rtmp://59.124.75.153/sat/tv771
+东森超视,rtmp://59.124.75.153:1935/sat/tv771
+FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+博斯魅力,rtmp://161.202.204.248:1935/sat/md021
+博斯網球,rtmp://161.202.204.248:1935/sat/md031
+博斯運動 II,rtmp://161.202.204.248:1935/sat/md051
+ELEVEN 1,rtmp://59.124.75.153:1935/sat/tv731
+人間衛視,rtmp://161.202.204.248/sat/md042
+纬来体育,rtmp://59.124.75.153:1935/sat/tv721
+纬来体育,rtmp://59.124.75.153/sat/tv721
+纬来育乐,rtmp://59.124.75.153:1935/sat/tv701
+纬来育乐,rtmp://59.124.75.153/sat/tv701
+纬来日本,rtmp://59.124.75.153/sat/tv522
+纬来日本,rtmp://59.124.75.153:1935/sat/tv521
+民视,rtmp://161.202.204.248/sat/tv051
+台视,rtmp://161.202.204.248/sat/tv071
+中视,rtmp://161.202.204.248/sat/tv091
+華视,rtmp://161.202.204.248/sat/tv111
+TVBS·欢乐台,rtmp://161.202.204.248/sat/tv421
+纬来日本,rtmp://161.202.204.248/sat/tv521
+TVBS·新闻台,rtmp://161.202.204.248/sat/tv551
+东森财经新闻,rtmp://161.202.204.248/sat/tv571
+纬来育乐,rtmp://161.202.204.248/sat/tv701
+纬来体育,rtmp://161.202.204.248/sat/tv721
+ELEVEN1体育,rtmp://161.202.204.248/sat/tv731
+ELEVEN2体育,rtmp://161.202.204.248/sat/tv741
+MoMo综合台,rtmp://161.202.204.248/sat/tv761
+东森超视,rtmp://161.202.204.248/sat/tv771
+爱尔达体育Ⅰ,rtmp://161.202.204.248/sat/md011
+博斯网球,rtmp://161.202.204.248/sat/md021
+博斯魅力,rtmp://161.202.204.248/sat/md031
+爱尔达奥运Ⅰ,rtmp://161.202.204.248/sat/md041
+爱尔达体育Ⅰ,rtmp://161.202.204.248/sat/md051
+日本MLB,rtmp://161.202.204.248:1935/sat/jp071
+CBS2 720,rtmp://161.202.204.248:1935/sat/us011
+CBS2 480,rtmp://161.202.204.248:1935/sat/us012
+FS1 480,rtmp://161.202.204.248:1935/sat/us031
+FS1 352,rtmp://161.202.204.248:1935/sat/us032
 🇨🇳央视,#genre#
 
 
