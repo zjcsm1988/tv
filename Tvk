@@ -56,6 +56,29 @@ CCTV1 3M1080,http://39.134.19.228:6410/yinhe/2/ch00000090990000001068/index.m3u8
 CHC高清电影 8M1080,http://39.134.19.228:6410/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院 8M1080,http://39.134.19.228:6410/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影 8M1080,http://39.134.19.228:6410/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+油管代理,#genre#
+華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
+東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
+民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
+民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
+民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民視旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
+民視,http://seb.sason.top/ptv/ftv.php?id=ms
+台視新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中視新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
+TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+华視新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
+東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+寰宇新聞台,http://seb.sason.top/sc/hyxw.m3u8
+民视新闻台,http://210.61.56.23/hls/ftvtv/index.m3u8
+民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
 🇨🇳香港,#genre#
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
