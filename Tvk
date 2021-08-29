@@ -1,8 +1,33 @@
 4K,#genre#
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 HOME4K,http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
-🇨🇳港澳,#genre#
-
+🇨🇳香港,#genre#
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+翡翠台(大陆线路）,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+翡翠台  1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8
+无线新闻 1080P,https://cdn.hkdtmb.com/hls/83/index.m3u8
+明珠台HD,https://cdn.hkdtmb.com/hls/84/index.m3u8
+J2 1080P,https://cdn.hkdtmb.com/hls/82/index.m3u8
+无线财经资讯台 1080P,https://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
+香港国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
+开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
+龍翔電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
+東森电影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
+緯來電影台,http://107.167.5.66:80/mylive/102/2063/index.m3u8
+卫视电影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+东森电影,http://107.167.5.66/mylive/102/2062/index.m3u8
+龍翔时代,http://107.167.5.66/mylive/102/2064/index.m3u8
+纬来电影,http://107.167.5.66/mylive/102/2063/index.m3u8
+HBO,http://107.167.5.66/mylive/102/2065/index.m3u8
+HBO GO,http://107.167.5.66/mylive/102/2070/index.m3u8
 🇨🇳台湾,#genre#
 台视HD,rtmp://161.202.204.248/sat/tv071
 台视HD-1,rtmp://161.202.204.248:1935/sat/tv071
@@ -292,3 +317,28 @@ FS1 352,rtmp://161.202.204.248:1935/sat/us032
 旅游卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225722/index.m3u8
 贵州卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
 辽宁卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
+⚽体育综合,#genre#
+纬来体育,rtmp://161.202.204.248/sat/tv721
+爱尔达体育1,rtmp://59.124.75.153:1935/sat/md011
+爱尔达体育2,rtmp://59.124.75.153:1935/sat/md021
+爱尔达体育3,rtmp://59.124.75.153:1935/sat/md031
+爱尔达体育4,rtmp://59.124.75.153:1935/sat/md041
+爱尔达体育5,rtmp://59.124.75.153:1935/sat/md051
+ELEVEN+体育,rtmp://59.124.75.153:1935/sat/md031
+博斯运动1,,rtmp://59.124.75.153:1935/sat/md041
+ELEVEN2体育,rtmp://59.124.75.153/sat/md051
+ELEVEN1体育,rtmp://59.124.75.153:1935/sat/tv731
+ELEVEN2体育,rtmp://59.124.75.153:1935/sat/tv741
+緯來體育,rtmp://161.202.204.248/sat/tv721#rtmp://161.202.204.248:1935/sat/tv721 
+緯來體育,rtmp://59.124.75.153/sat/tv721 
+緯來體育,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8 
+愛爾達體育2台,rtmp://161.202.204.248/sat/md011 
+愛爾達體育1台,rtmp://161.202.204.248/sat/md021 
+ELEVEN2,rtmp://161.202.204.248/sat/md031 
+ELEVEN+,rtmp://161.202.204.248/sat/md041 
+愛爾達體育3台,rtmp://161.202.204.248/sat/md051 
+愛爾達體育2台,rtmp://59.124.75.153/sat/md011 
+愛爾達體育1台,rtmp://59.124.75.153/sat/md021 
+ELEVEN2,rtmp://59.124.75.153:1935/sat/md031 
+ELEVEN+,rtmp://59.124.75.153:1935/sat/md041 
+愛爾達體育3台,rtmp://59.124.75.153/sat/md051
