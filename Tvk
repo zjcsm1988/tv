@@ -1,6 +1,6 @@
 4K,#genre#
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-
+HOME4K,http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
 🇨🇳港澳,#genre#
 
 🇨🇳台湾,#genre#
