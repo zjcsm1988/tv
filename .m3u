@@ -1,0 +1,1725 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="八大戏剧" group-title="港台", 八大戏剧
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
+#EXTINF:-1 tvg-name="八大戏剧" group-title="港台", 八大戏剧
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+#EXTINF:-1 tvg-name="八大戏剧" group-title="港台", 八大戏剧
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+#EXTINF:-1 tvg-name="八大综合" group-title="港台", 八大综合
+http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1 tvg-name="八大綜合" group-title="港台", 八大綜合
+http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+#EXTINF:-1 tvg-name="东森财经" group-title="港台", 东森财经
+rtmp://59.124.75.138:1935/sat/tv571
+#EXTINF:-1 tvg-name="东森财经新闻" group-title="港台", 东森财经新闻
+rtmp://59.124.75.150/sat/tv571
+#EXTINF:-1 tvg-name="东森财经新闻" group-title="港台", 东森财经新闻
+rtmp://59.124.75.138/sat/tv571
+#EXTINF:-1 tvg-name="东森超视" group-title="港台", 东森超视
+rtmp://59.124.75.150/sat/tv521
+#EXTINF:-1 tvg-name="东森超视" group-title="港台", 东森超视
+rtmp://59.124.75.138:1935/sat/tv331
+#EXTINF:-1 tvg-name="东森超视" group-title="港台", 东森超视
+rtmp://59.124.75.138/sat/tv521
+#EXTINF:-1 tvg-name="东森电影" group-title="港台", 东森电影
+http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+#EXTINF:-1 tvg-name="东森戏剧" group-title="港台", 东森戏剧
+http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+#EXTINF:-1 tvg-name="东森新闻" group-title="港台", 东森新闻
+http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+#EXTINF:-1 tvg-name="东森洋片" group-title="港台", 东森洋片
+http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+#EXTINF:-1 tvg-name="东森综合" group-title="港台", 东森综合
+http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+#EXTINF:-1 tvg-name="华视" group-title="港台", 华视
+rtmp://59.124.75.138/sat/tv111
+#EXTINF:-1 tvg-name="华视" group-title="港台", 华视
+rtmp://59.124.75.150/sat/tv111
+#EXTINF:-1 tvg-name="华视" group-title="港台", 华视
+rtmp://59.124.75.138:1935/sat/tv111
+#EXTINF:-1 tvg-name="龙华偶像" group-title="港台", 龙华偶像
+http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 tvg-name="龙华日韩" group-title="港台", 龙华日韩
+http://59.125.122.90:18508/.m3u8
+#EXTINF:-1 tvg-name="民视" group-title="港台", 民视
+rtmp://59.124.75.138/sat/tv051
+#EXTINF:-1 tvg-name="民视" group-title="港台", 民视
+rtmp://59.124.75.138:1935/sat/tv051
+#EXTINF:-1 tvg-name="民视" group-title="港台", 民视
+rtmp://59.124.75.150/sat/tv051
+#EXTINF:-1 tvg-name="民视新闻" group-title="港台", 民视新闻
+http://60.251.33.252:18563/.m3u8
+#EXTINF:-1 tvg-name="陌陌综合" group-title="港台", 陌陌综合
+rtmp://59.124.75.138:1935/sat/tv761
+#EXTINF:-1 tvg-name="三立戏剧" group-title="港台", 三立戏剧
+http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+#EXTINF:-1 tvg-name="台视" group-title="港台", 台视
+rtmp://59.124.75.150/sat/tv071
+#EXTINF:-1 tvg-name="台视" group-title="港台", 台视
+rtmp://59.124.75.138:1935/sat/tv071
+#EXTINF:-1 tvg-name="台视" group-title="港台", 台视
+http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
+#EXTINF:-1 tvg-name="台视" group-title="港台", 台视
+rtmp://59.124.75.138/sat/tv071
+#EXTINF:-1 tvg-name="纬来日本" group-title="港台", 纬来日本
+rtmp://59.124.75.138:1935/sat/tv771
+#EXTINF:-1 tvg-name="纬来日本" group-title="港台", 纬来日本
+rtmp://59.124.75.138/sat/tv771
+#EXTINF:-1 tvg-name="纬来日本" group-title="港台", 纬来日本
+rtmp://59.124.75.150/sat/tv771
+#EXTINF:-1 tvg-name="纬来体育" group-title="港台", 纬来体育
+rtmp://59.124.75.138/sat/tv721
+#EXTINF:-1 tvg-name="纬来体育" group-title="港台", 纬来体育
+rtmp://59.124.75.138:1935/sat/tv721
+#EXTINF:-1 tvg-name="纬来体育" group-title="港台", 纬来体育
+rtmp://59.124.75.150/sat/tv721
+#EXTINF:-1 tvg-name="纬来育乐" group-title="港台", 纬来育乐
+rtmp://59.124.75.150/sat/tv701
+#EXTINF:-1 tvg-name="纬来育乐" group-title="港台", 纬来育乐
+http://123.51.229.65:18541/.m3u8
+#EXTINF:-1 tvg-name="纬来育乐" group-title="港台", 纬来育乐
+rtmp://59.124.75.138:1935/sat/tv701
+#EXTINF:-1 tvg-name="纬来育乐" group-title="港台", 纬来育乐
+rtmp://59.124.75.138/sat/tv701
+#EXTINF:-1 tvg-name="中视" group-title="港台", 中视
+rtmp://59.124.75.138:1935/sat/tv091
+#EXTINF:-1 tvg-name="中视" group-title="港台", 中视
+rtmp://59.124.75.138/sat/tv091
+#EXTINF:-1 tvg-name="中视" group-title="港台", 中视
+rtmp://59.124.75.150/sat/tv091
+#EXTINF:-1 tvg-name="中视新闻" group-title="港台", 中视新闻
+http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1 tvg-name="中视新闻台" group-title="港台", 中视新闻台
+http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1 tvg-name="中天新闻" group-title="港台", 中天新闻
+http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 tvg-name="中天新闻" group-title="港台", 中天新闻
+http://123.51.230.124:8535/.m3u8
+#EXTINF:-1 tvg-name="中天亚洲台" group-title="港台", 中天亚洲台
+http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
+#EXTINF:-1 tvg-name="中天综合" group-title="港台", 中天综合
+http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+#EXTINF:-1 tvg-name="JET综合" group-title="港台", JET综合
+http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
+#EXTINF:-1 tvg-name="MOMO综合" group-title="港台", MOMO综合
+rtmp://59.124.75.150/sat/tv761
+#EXTINF:-1 tvg-name="MOMO综合" group-title="港台", MOMO综合
+http://59.125.122.90:18576/.m3u8
+#EXTINF:-1 tvg-name="MOMO综合" group-title="港台", MOMO综合
+http://59.125.122.90:18576/.m3u8
+#EXTINF:-1 tvg-name="MOMO综合" group-title="港台", MOMO综合
+rtmp://59.124.75.138/sat/tv761
+#EXTINF:-1 tvg-name="TVBS欢乐" group-title="港台", TVBS欢乐
+rtmp://59.124.75.138/sat/tv421
+#EXTINF:-1 tvg-name="TVBS欢乐" group-title="港台", TVBS欢乐
+rtmp://59.124.75.138:1935/sat/tv421
+#EXTINF:-1 tvg-name="TVBS欢乐" group-title="港台", TVBS欢乐
+rtmp://59.124.75.138:1935/sat/tv421
+#EXTINF:-1 tvg-name="TVBS欢乐" group-title="港台", TVBS欢乐
+rtmp://59.124.75.150/sat/tv421
+#EXTINF:-1 tvg-name="TVBS新闻" group-title="港台", TVBS新闻
+rtmp://59.124.75.138/sat/tv551
+#EXTINF:-1 tvg-name="TVBS新闻" group-title="港台", TVBS新闻
+rtmp://59.124.75.138:1935/sat/tv551
+#EXTINF:-1 tvg-name="TVBS新闻" group-title="港台", TVBS新闻
+rtmp://59.124.75.150/sat/tv551
+#EXTINF:-1 tvg-name="澳门体育" group-title="港台", 澳门体育
+http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门体育" group-title="港台", 澳门体育
+http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门体育" group-title="港台", 澳门体育
+http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门体育" group-title="港台", 澳门体育
+http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
+#EXTINF:-1 tvg-name="澳门资讯" group-title="港台", 澳门资讯
+http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
+#EXTINF:-1 tvg-name="澳门资讯" group-title="港台", 澳门资讯
+http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门资讯" group-title="港台", 澳门资讯
+http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门综艺" group-title="港台", 澳门综艺
+http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门综艺" group-title="港台", 澳门综艺
+http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门综艺" group-title="港台", 澳门综艺
+http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门综艺" group-title="港台", 澳门综艺
+http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门Macau" group-title="港台", 澳门Macau
+http://61.244.22.4/ch3/ch3.live/index.m3u8
+#EXTINF:-1 tvg-name="澳门Macau" group-title="港台", 澳门Macau
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 tvg-name="澳门Macau" group-title="港台", 澳门Macau
+http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门Macau" group-title="港台", 澳门Macau
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 tvg-name="澳门Macau" group-title="港台", 澳门Macau
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 tvg-name="澳门Macau" group-title="港台", 澳门Macau
+http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳视澳门" group-title="港台", 澳视澳门
+http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳视澳门" group-title="港台", 澳视澳门
+http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳视澳门" group-title="港台", 澳视澳门
+http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 tvg-name="澳视葡文" group-title="港台", 澳视葡文
+http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳视葡文" group-title="港台", 澳视葡文
+http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳视葡文" group-title="港台", 澳视葡文
+http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳视葡文" group-title="港台", 澳视葡文
+http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 tvg-name="翡翠华丽" group-title="港台", 翡翠华丽
+http://23.237.10.66:16410
+#EXTINF:-1 tvg-name="翡翠台" group-title="港台", 翡翠台
+http://23.237.10.66:16106
+#EXTINF:-1 tvg-name="翡翠台" group-title="港台", 翡翠台
+http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+#EXTINF:-1 tvg-name="凤凰电影" group-title="港台", 凤凰电影
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="港台", 凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="港台", 凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="港台", 凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="港台", 凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-name="经典功夫台" group-title="港台", 经典功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="港台", 无线新闻
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="港台", 无线新闻
+http://23.237.10.66:16110
+#EXTINF:-1 tvg-name="无线新闻" group-title="港台", 无线新闻
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-name="有线18" group-title="港台", 有线18
+rtmp://59.124.75.138:1935/sat/hk041
+#EXTINF:-1 tvg-name="HTV4" group-title="港台", HTV4
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-name="j2" group-title="港台", j2
+http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+#EXTINF:-1 tvg-name="J2" group-title="港台", J2
+http://120.84.96.195:808/hls/86/index.m3u8
+#EXTINF:-1 tvg-name="Pearl" group-title="港台", Pearl
+http://27.47.71.84:808/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="吴孟达" group-title="轮播", 吴孟达
+http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="林正英" group-title="轮播", 林正英
+http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="沈腾" group-title="轮播", 沈腾
+http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="甄子丹" group-title="轮播", 甄子丹
+http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="成龙" group-title="轮播", 成龙
+http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="李连杰" group-title="轮播", 李连杰
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="周润发" group-title="轮播", 周润发
+http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="刘德华" group-title="轮播", 刘德华
+http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="洪金宝" group-title="轮播", 洪金宝
+http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="黄渤" group-title="轮播", 黄渤
+http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="刘家辉" group-title="轮播", 刘家辉
+http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="咏春系列" group-title="轮播", 咏春系列
+http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="黑帮系列" group-title="轮播", 黑帮系列
+http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="古墓系列" group-title="轮播", 古墓系列
+http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="赛车系列" group-title="轮播", 赛车系列
+http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="警匪系列" group-title="轮播", 警匪系列
+http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="喜剧系列" group-title="轮播", 喜剧系列
+http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="动作大片" group-title="轮播", 动作大片
+http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="玄幻系列" group-title="轮播", 玄幻系列
+http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="古装武侠" group-title="轮播", 古装武侠
+http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="香港女神系列" group-title="轮播", 香港女神系列
+http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="金庸武侠系列" group-title="轮播", 金庸武侠系列
+http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="熊猫功夫" group-title="轮播", 熊猫功夫
+https://cn-jssz-cm-02-32.bilivideo.com/live-bvc/798824/live_400311478_37488632.m3u8
+#EXTINF:-1 tvg-name="经典功夫台" group-title="轮播", 经典功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
+#EXTINF:-1 tvg-name="经典功夫台" group-title="轮播", 经典功夫台
+https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
+#EXTINF:-1 tvg-name="TVB3" group-title="轮播", TVB3
+http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="TVB4" group-title="轮播", TVB4
+http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="TVB10" group-title="轮播", TVB10
+http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="TVB25" group-title="轮播", TVB25
+http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="TVB26" group-title="轮播", TVB26
+http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="TVB28" group-title="轮播", TVB28
+http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="TVB29" group-title="轮播", TVB29
+http://txtest-xp2p.p2p.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="TVB32" group-title="轮播", TVB32
+http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="TVB40" group-title="轮播", TVB40
+http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="金马影院" group-title="轮播", 金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-name="女神影院" group-title="轮播", 女神影院
+https://pull.kktv8.com/livekktv/99350550.flv
+#EXTINF:-1 tvg-name="午夜影院" group-title="轮播", 午夜影院
+https://pull.kktv8.com/livekktv/99592190.flv
+#EXTINF:-1 tvg-name="成龙作品集" group-title="轮播", 成龙作品集
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
+#EXTINF:-1 tvg-name="盗墓" group-title="轮播", 盗墓
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
+#EXTINF:-1 tvg-name="盗墓笔记" group-title="轮播", 盗墓笔记
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
+#EXTINF:-1 tvg-name="高分影院" group-title="轮播", 高分影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
+#EXTINF:-1 tvg-name="高能烧脑时刻" group-title="轮播", 高能烧脑时刻
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
+#EXTINF:-1 tvg-name="高清大片" group-title="轮播", 高清大片
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
+#EXTINF:-1 tvg-name="古龙作品集" group-title="轮播", 古龙作品集
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
+#EXTINF:-1 tvg-name="古天乐影院" group-title="轮播", 古天乐影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
+#EXTINF:-1 tvg-name="郭富城影院" group-title="轮播", 郭富城影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
+#EXTINF:-1 tvg-name="红色谍战剧场" group-title="轮播", 红色谍战剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/634274665
+#EXTINF:-1 tvg-name="怀旧老片" group-title="轮播", 怀旧老片
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
+#EXTINF:-1 tvg-name="黄金剧场" group-title="轮播", 黄金剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
+#EXTINF:-1 tvg-name="僵尸剧场" group-title="轮播", 僵尸剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
+#EXTINF:-1 tvg-name="金庸频道" group-title="轮播", 金庸频道
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
+#EXTINF:-1 tvg-name="经典贺岁片" group-title="轮播", 经典贺岁片
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662
+#EXTINF:-1 tvg-name="经典影视速看" group-title="轮播", 经典影视速看
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751
+#EXTINF:-1 tvg-name="军旅剧场" group-title="轮播", 军旅剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517
+#EXTINF:-1 tvg-name="刘德华影院" group-title="轮播", 刘德华影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
+#EXTINF:-1 tvg-name="刘亦菲影视展播" group-title="轮播", 刘亦菲影视展播
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386
+#EXTINF:-1 tvg-name="每日科幻电影" group-title="轮播", 每日科幻电影
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
+#EXTINF:-1 tvg-name="咪咕暑期剧场" group-title="轮播", 咪咕暑期剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
+#EXTINF:-1 tvg-name="咪咕云上电影院" group-title="轮播", 咪咕云上电影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
+#EXTINF:-1 tvg-name="热剧联播" group-title="轮播", 热剧联播
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
+#EXTINF:-1 tvg-name="少林剧场" group-title="轮播", 少林剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
+#EXTINF:-1 tvg-name="深夜失眠剧场" group-title="轮播", 深夜失眠剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
+#EXTINF:-1 tvg-name="试胆大会" group-title="轮播", 试胆大会
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
+#EXTINF:-1 tvg-name="武侠剧场" group-title="轮播", 武侠剧场
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
+#EXTINF:-1 tvg-name="喜剧联盟" group-title="轮播", 喜剧联盟
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
+#EXTINF:-1 tvg-name="新片放映厅" group-title="轮播", 新片放映厅
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
+#EXTINF:-1 tvg-name="杨幂影院" group-title="轮播", 杨幂影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542372
+#EXTINF:-1 tvg-name="张国荣影院" group-title="轮播", 张国荣影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
+#EXTINF:-1 tvg-name="周润发影院" group-title="轮播", 周润发影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
+#EXTINF:-1 tvg-name="周星驰影院" group-title="轮播", 周星驰影院
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
+#EXTINF:-1 tvg-name="追剧少女" group-title="轮播", 追剧少女
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318
+#EXTINF:-1 tvg-name="CCTV6电影" group-title="轮播", CCTV6电影
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
+#EXTINF:-1 tvg-name="CCTV8电视剧" group-title="轮播", CCTV8电视剧
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="央视", CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="央视", CHC动作电影
+http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影" group-title="央视", CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影" group-title="央视", CHC高清电影
+http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="央视", CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="央视", CHC动作电影
+http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="央视", CHC家庭影院
+http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="央视", CHC家庭影院
+http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视", CCTV1
+http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视", CCTV2
+http://39.136.48.18:8089/PLTV/88888888/224/3221225751/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视", CCTV3
+http://39.134.65.142/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视", CCTV4
+http://111.20.33.70/PLTV/88888893/224/3221226223/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视", CCTV5
+http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视", CCTV5+
+http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/15903942991.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视", CCTV6
+http://39.134.66.2/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视", CCTV7
+http://111.20.33.70/PLTV/88888893/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视", CCTV8
+http://183.207.248.12/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视", CCTV9
+http://39.136.48.18:8089/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视", CCTV10
+http://39.134.65.142/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视", CCTV11
+http://39.134.65.142/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视", CCTV12
+http://39.134.65.208/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视", CCTV13
+http://39.134.67.99/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视", CCTV14
+http://39.134.65.142/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视", CCTV15
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视", CCTV16
+http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视", CCTV16
+http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" group-title="央视", CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" group-title="央视", CCTV4K
+https://p.ggiptv.com/v/4k.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视", CCTV1
+http://49.7.234.13:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视", CCTV2
+http://49.7.234.13:808/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视", CCTV3
+http://49.7.234.13:808/hls/151/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视", CCTV4
+http://49.7.234.13:808/hls/127/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视", CCTV6
+http://49.7.234.13:808/hls/146/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视", CCTV7
+http://49.7.234.13:808/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视", CCTV8
+http://49.7.234.13:808/hls/147/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视", CCTV9
+http://49.7.234.13:808/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视", CCTV10
+http://49.7.234.13:808/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视", CCTV11
+http://49.7.234.13:808/hls/183/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视", CCTV12
+http://49.7.234.13:808/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视", CCTV13
+http://49.7.234.13:808/hls/155/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视", CCTV15
+http://49.7.234.13:808/hls/175/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视", CCTV17
+http://49.7.234.13:808/hls/176/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视", CCTV1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视", CCTV2
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视", CCTV3
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视", CCTV4
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视", CCTV6
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视", CCTV7
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视", CCTV8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视", CCTV9
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视", CCTV10
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视", CCTV11
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视", CCTV12
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视", CCTV13
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视", CCTV15
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视", CCTV17
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视", CCTV1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视", CCTV2
+http://39.135.138.58:18890/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视", CCTV3
+http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视", CCTV4
+http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视", CCTV6
+http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视", CCTV7
+http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视", CCTV8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视", CCTV9
+http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视", CCTV10
+http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视", CCTV11
+http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视", CCTV12
+http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视", CCTV13
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视", CCTV15
+http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视", CCTV17
+http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视", CCTV1
+http://219.140.56.34:3333/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视", CCTV2
+http://219.140.56.34:3333/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视", CCTV3
+http://219.140.56.34:3333/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视", CCTV4
+http://219.140.56.34:3333/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视", CCTV6
+http://219.140.56.34:3333/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视", CCTV7
+http://219.140.56.34:3333/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视", CCTV8
+http://219.140.56.34:3333/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视", CCTV9
+http://219.140.56.34:3333/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视", CCTV10
+http://219.140.56.34:3333/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视", CCTV11
+http://219.140.56.34:3333/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视", CCTV12
+http://219.140.56.34:3333/tsfile/live/0012_1.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视", CCTV13
+http://219.140.56.34:3333/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视", CCTV15
+http://219.140.56.34:3333/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视", CCTV17
+http://219.140.56.34:3333/tsfile/live/0019_1.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视", CCTV1
+http://111.59.189.40:8445/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视", CCTV2
+http://111.59.189.40:8445/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视", CCTV3
+http://111.59.189.40:8445/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视", CCTV4
+http://111.59.189.40:8445/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视", CCTV6
+http://111.59.189.40:8445/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视", CCTV7
+http://111.59.189.40:8445/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视", CCTV8
+http://111.59.189.40:8445/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视", CCTV9
+http://111.59.189.40:8445/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视", CCTV10
+http://111.59.189.40:8445/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视", CCTV11
+http://111.59.189.40:8445/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视", CCTV12
+http://111.59.189.40:8445/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视", CCTV13
+http://111.59.189.40:8445/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视", CCTV1
+http://39.137.49.76:8080/PLTV/88888888/224/3221225618/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视", CCTV2
+http://39.137.49.76:8080/PLTV/88888888/224/3221225619/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视", CCTV3
+http://39.137.49.76:8080/PLTV/88888888/224/3221225634/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视", CCTV4
+http://39.137.49.76:8080/PLTV/88888888/224/3221225621/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视", CCTV6
+http://39.137.49.76:8080/PLTV/88888888/224/3221225632/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视", CCTV7
+http://39.137.49.76:8080/PLTV/88888888/224/3221225624/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视", CCTV8
+http://39.137.49.76:8080/PLTV/88888888/224/3221225631/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视", CCTV9
+http://39.137.49.76:8080/PLTV/88888888/224/3221225626/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视", CCTV10
+http://39.137.49.76:8080/PLTV/88888888/224/3221225627/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视", CCTV11
+http://39.137.49.76:8080/PLTV/88888888/224/3221225628/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视", CCTV12
+http://39.137.49.76:8080/PLTV/88888888/224/3221225629/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视", CCTV13
+http://39.137.49.76:8080/PLTV/88888888/224/3221225638/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视", CCTV17
+http://39.137.49.76:8080/PLTV/88888888/224/3221225907/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视", CCTV17
+http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-name="CCTV发现之旅" group-title="央视", CCTV发现之旅
+http://111.20.33.70/PLTV/88888893/224/3221226235/index.m3u8
+#EXTINF:-1 tvg-name="CCTV老故事" group-title="央视", CCTV老故事
+http://111.20.33.70/PLTV/88888893/224/3221226236/index.m3u8
+#EXTINF:-1 tvg-name="CCTV女性时尚" group-title="央视", CCTV女性时尚
+http://111.20.33.70/PLTV/88888893/224/3221226237/index.m3u8
+#EXTINF:-1 tvg-name="爱上4k" group-title="央视", 爱上4k
+http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-name="爱上4K" group-title="央视", 爱上4K
+http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-name="冬奥纪实" group-title="央视", 冬奥纪实
+http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" group-title="央视", 黑莓电影
+http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-name="纪实人文" group-title="央视", 纪实人文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-name="纪实人文" group-title="央视", 纪实人文
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="央视", 嘉佳卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" group-title="央视", 金牌综艺
+http://39.134.66.110/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="央视", 金鹰纪实
+http://111.20.33.70/PLTV/88888893/224/3221226351/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="央视", 金鹰纪实
+http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8
+#EXTINF:-1 tvg-name="全纪实" group-title="央视", 全纪实
+http://111.20.33.70/PLTV/88888893/224/3221226580/index.m3u8
+#EXTINF:-1 tvg-name="新华中文" group-title="央视", 新华中文
+http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
+#EXTINF:-1 tvg-name="新华中文" group-title="央视", 新华中文
+http://39.135.138.60:18890/PLTV/88888888/224/3221225694/index.m3u8
+#EXTINF:-1 tvg-name="CETV-3" group-title="央视", CETV-3
+http://111.20.33.70/PLTV/88888893/224/3221226226/index.m3u8
+#EXTINF:-1 tvg-name="CETV-4" group-title="央视", CETV-4
+http://111.20.33.70/PLTV/88888893/224/3221226225/index.m3u8
+#EXTINF:-1 tvg-name="CETV4" group-title="央视", CETV4
+http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="央视", CHC动作电影
+http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="央视", CHC家庭影院
+http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="央视", CHC家庭影院
+http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-name="兵器科技" group-title="央视", 兵器科技
+http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
+#EXTINF:-1 tvg-name="兵器科技" group-title="央视", 兵器科技
+rtsp://221.203.83.34:554/PLTV/88888888/224/3221226704/10000100000000060000000006385167_0.smil
+#EXTINF:-1 tvg-name="兵器科技" group-title="央视", 兵器科技
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+#EXTINF:-1 tvg-name="第一剧场" group-title="央视", 第一剧场
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+#EXTINF:-1 tvg-name="第一剧场" group-title="央视", 第一剧场
+rtsp://221.203.83.34:554/PLTV/88888888/224/3221226698/10000100000000060000000006385142_0.smil
+#EXTINF:-1 tvg-name="电视指南" group-title="央视", 电视指南
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+#EXTINF:-1 tvg-name="电视指南" group-title="央视", 电视指南
+rtsp://221.203.83.34:554/PLTV/88888888/224/3221226708/10000100000000060000000006385178_0.smil
+#EXTINF:-1 tvg-name="风云剧场" group-title="央视", 风云剧场
+http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 tvg-name="风云剧场" group-title="央视", 风云剧场
+rtsp://221.203.83.34:554/PLTV/88888888/224/3221226671/10000100000000060000000006385152_0.smil
+#EXTINF:-1 tvg-name="风云剧场" group-title="央视", 风云剧场
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+#EXTINF:-1 tvg-name="风云剧场" group-title="央视", 风云剧场
+http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
+#EXTINF:-1 tvg-name="风云音乐" group-title="央视", 风云音乐
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+#EXTINF:-1 tvg-name="风云音乐" group-title="央视", 风云音乐
+rtsp://221.203.83.34:554/PLTV/88888888/224/3221226718/10000100000000060000000006385496_0.smil
+#EXTINF:-1 tvg-name="风云音乐" group-title="央视", 风云音乐
+http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-name="风云足球" group-title="央视", 风云足球
+rtsp://221.203.83.34:554/PLTV/88888888/224/3221226702/10000100000000060000000006385159_0.smil
+#EXTINF:-1 tvg-name="风云足球" group-title="央视", 风云足球
+http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 tvg-name="风云足球" group-title="央视", 风云足球
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+#EXTINF:-1 tvg-name="高尔夫网球" group-title="央视", 高尔夫网球
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" group-title="央视", 怀旧剧场
+rtsp://221.203.83.34:554/PLTV/88888888/224/3221226700/10000100000000060000000006385151_0.smil
+#EXTINF:-1 tvg-name="怀旧剧场" group-title="央视", 怀旧剧场
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+#EXTINF:-1 tvg-name="女性时尚" group-title="央视", 女性时尚
+rtsp://221.203.83.34:554/PLTV/88888888/224/3221226675/10000100000000060000000006385156_0.smil
+#EXTINF:-1 tvg-name="女性时尚" group-title="央视", 女性时尚
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+#EXTINF:-1 tvg-name="世界地理" group-title="央视", 世界地理
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+#EXTINF:-1 tvg-name="世界地理" group-title="央视", 世界地理
+rtsp://221.203.83.34:554/PLTV/88888888/224/3221226679/10000100000000060000000006385175_0.smil
+#EXTINF:-1 tvg-name="世界地理" group-title="央视", 世界地理
+http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 tvg-name="世界地理" group-title="央视", 世界地理
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+#EXTINF:-1 tvg-name="卫生健康" group-title="央视", 卫生健康
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+#EXTINF:-1 tvg-name="央视文化精品" group-title="央视", 央视文化精品
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+#EXTINF:-1 tvg-name="央视台球" group-title="央视", 央视台球
+rtsp://221.203.83.34:554/PLTV/88888888/224/3221226706/10000100000000060000000006385172_0.smil
+#EXTINF:-1 tvg-name="央视文化精品" group-title="央视", 央视文化精品
+rtsp://221.203.83.34:554/PLTV/88888888/224/3221226677/10000100000000060000000006385162_0.smil
+#EXTINF:-1 tvg-name="央视文化精品" group-title="央视", 央视文化精品
+http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
+#EXTINF:-1 tvg-name="CGTN" group-title="央视", CGTN
+http://39.136.48.29:8089/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 tvg-name="CGTN Arabic" group-title="央视", CGTN Arabic
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN Español" group-title="央视", CGTN Español
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN France" group-title="央视", CGTN France
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-name="CNC英文" group-title="央视", CNC英文
+http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
+#EXTINF:-1 tvg-name="CNC中文" group-title="央视", CNC中文
+http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 tvg-name="CNC中文" group-title="央视", CNC中文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 tvg-name="CNC中文" group-title="央视", CNC中文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 tvg-name="冬奥纪实" group-title="央视", 冬奥纪实
+http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" group-title="央视", 黑莓电影
+http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-name="纪实人文" group-title="央视", 纪实人文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-name="纪实人文" group-title="央视", 纪实人文
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="央视", 嘉佳卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" group-title="央视", 金牌综艺
+http://39.134.66.110/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="央视", 金鹰纪实
+http://111.20.33.70/PLTV/88888893/224/3221226351/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="央视", 金鹰纪实
+http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8
+#EXTINF:-1 tvg-name="CETV-3" group-title="央视", CETV-3
+http://111.20.33.70/PLTV/88888893/224/3221226226/index.m3u8
+#EXTINF:-1 tvg-name="CETV-4" group-title="央视", CETV-4
+http://111.20.33.70/PLTV/88888893/224/3221226225/index.m3u8
+#EXTINF:-1 tvg-name="CETV-4" group-title="央视", CETV-4
+http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8
+#EXTINF:-1 tvg-name="CCTV西班牙语频道" group-title="央视", CCTV西班牙语频道
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-name="CCTV法语频道" group-title="央视", CCTV法语频道
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-name="CCTV阿语频道" group-title="央视", CCTV阿语频道
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN Documentary" group-title="央视", CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN Русский" group-title="央视", CGTN Русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-name="西班牙中国环球电视网CGTN" group-title="央视", 西班牙中国环球电视网CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-name="中央电视塔中塔北" group-title="央视", 中央电视塔中塔北
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
+#EXTINF:-1 tvg-name="中央电视塔中塔南" group-title="央视", 中央电视塔中塔南
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 tvg-name="中央电视塔中塔西" group-title="央视", 中央电视塔中塔西
+https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8
+#EXTINF:-1 tvg-name="中央电视台中塔北" group-title="央视", 中央电视台中塔北
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="CCTV8K" group-title="央视", CCTV8K
+http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
+#EXTINF:-1 tvg-name="-懒猪 少年包青天美黑之旅" group-title="虎牙", -懒猪 少年包青天美黑之旅
+http://txtest-xp2p.p2p.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1-imgplus.xs
+#EXTINF:-1 tvg-name="【海绵宝宝】黄方块的爆笑生活~" group-title="虎牙", 【海绵宝宝】黄方块的爆笑生活~
+https://epg.112114.xyz/huya/11352919
+#EXTINF:-1 tvg-name="【猫和老鼠】汤姆和杰瑞的故事" group-title="虎牙", 【猫和老鼠】汤姆和杰瑞的故事
+https://epg.112114.xyz/huya/11352879
+#EXTINF:-1 tvg-name="【七龍珠改】超级赛亚人孙捂空" group-title="虎牙", 【七龍珠改】超级赛亚人孙捂空
+https://epg.112114.xyz/huya/11601966
+#EXTINF:-1 tvg-name="【中华小当家】看的我口水直流～" group-title="虎牙", 【中华小当家】看的我口水直流～
+https://epg.112114.xyz/huya/11342413
+#EXTINF:-1 tvg-name="【Blue胖】你看得到我的腿吗" group-title="虎牙", 【Blue胖】你看得到我的腿吗
+https://epg.112114.xyz/huya/11601963
+#EXTINF:-1 tvg-name="阿良说美剧 绝命毒师5-16，老白铲除了所有威胁，最终带着遗憾自首" group-title="虎牙", 阿良说美剧 绝命毒师5-16，老白铲除了所有威胁，最终带着遗憾自首
+http://txtest-xp2p.p2p.huya.com/src/1199526558405-1199526558405-5285742467944022016-2399053240266-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="北岛南城 产科共同见证生与si" group-title="虎牙", 北岛南城 产科共同见证生与si
+http://txtest-xp2p.p2p.huya.com/src/1524418076-1524418076-6547325781851242496-3048959608-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="扁豆看电影 太敢拍了！国产神片，看一部少一部《背靠背，脸对脸》" group-title="虎牙", 扁豆看电影 太敢拍了！国产神片，看一部少一部《背靠背，脸对脸》
+http://txtest-xp2p.p2p.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="斌哥漫说 【死神】护廷十三队出现危机！所有队长全被掉包！34" group-title="虎牙", 斌哥漫说 【死神】护廷十三队出现危机！所有队长全被掉包！34
+http://txtest-xp2p.p2p.huya.com/src/1199516152253-1199516152253-5241048385426817024-2399032427962-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="茶啊二中" group-title="虎牙", 茶啊二中
+https://epg.112114.xyz/huya/11213191
+#EXTINF:-1 tvg-name="成龍历险记·社会我阿福乌鸦坐飞机" group-title="虎牙", 成龍历险记·社会我阿福乌鸦坐飞机
+https://epg.112114.xyz/huya/11352946
+#EXTINF:-1 tvg-name="成长学院 中国通史-上下五千年" group-title="虎牙", 成长学院 中国通史-上下五千年
+http://txtest-xp2p.p2p.huya.com/src/1099531752680-1099531752680-86435804515139584-2199063628816-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="楚门聊电影 一道闪电劈中火箭，导致火箭意外发射《美剧》天蝎" group-title="虎牙", 楚门聊电影 一道闪电劈中火箭，导致火箭意外发射《美剧》天蝎
+http://txtest-xp2p.p2p.huya.com/src/2322561713-2322561713-9975326600276738048-4645246882-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="大梦电影 《信号100》想知道一百种信号是干嘛的吗，准备好啦" group-title="虎牙", 大梦电影 《信号100》想知道一百种信号是干嘛的吗，准备好啦
+http://txtest-xp2p.p2p.huya.com/src/1199573065336-1199573065336-5485488215626350592-2399146254128-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="大侠 快来追！yang光的快乐生活" group-title="虎牙", 大侠 快来追！yang光的快乐生活
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="大象放映室 豆瓣8.4，你年少时暗恋的那个TA，现在过得怎么样？" group-title="虎牙", 大象放映室 豆瓣8.4，你年少时暗恋的那个TA，现在过得怎么样？
+http://txtest-xp2p.p2p.huya.com/src/1199531762115-1199531762115-5308092232211890176-2399063647686-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="大鱼爱路飞 动画7四战快看系列【21-24】" group-title="虎牙", 大鱼爱路飞 动画7四战快看系列【21-24】
+http://txtest-xp2p.p2p.huya.com/src/1199590495159-1199590495159-5560348735386419200-2399181113774-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="呆萌小岳岳 一代枭雄为报父仇励精图治" group-title="虎牙", 呆萌小岳岳 一代枭雄为报父仇励精图治
+http://txtest-xp2p.p2p.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="缔爵丶小阿杜 《龙珠超动画》一口气看完龙珠超4" group-title="虎牙", 缔爵丶小阿杜 《龙珠超动画》一口气看完龙珠超4
+http://txtest-xp2p.p2p.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="电影最TOP 电影最TOP 151: 被歌唱事业耽误的帝——张学友" group-title="虎牙", 电影最TOP 电影最TOP 151: 被歌唱事业耽误的帝——张学友
+http://txtest-xp2p.p2p.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="二次元控 丐帮帮主乔峰驾到·樊少皇老戏骨" group-title="虎牙", 二次元控 丐帮帮主乔峰驾到·樊少皇老戏骨
+http://txtest-xp2p.p2p.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="非凡武林 碧血剑8：袁承志闯荡江湖大战青竹帮，混元功显威，经典之战！" group-title="虎牙", 非凡武林 碧血剑8：袁承志闯荡江湖大战青竹帮，混元功显威，经典之战！
+http://txtest-xp2p.p2p.huya.com/src/1279520922847-1279520922847-16817528283867381760-2559041969150-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="枫哥视 飞出个未来" group-title="虎牙", 枫哥视 飞出个未来
+http://txtest-xp2p.p2p.huya.com/src/1199579767212-1199579767212-5514272553868197888-2399159657880-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="搞笑的一家人" group-title="虎牙", 搞笑的一家人
+https://epg.112114.xyz/huya/11342402
+#EXTINF:-1 tvg-name="狗哥吃火锅 【火影重置版04】力量暴增！佐助获得咒印力量！动画——中忍考试篇02" group-title="虎牙", 狗哥吃火锅 【火影重置版04】力量暴增！佐助获得咒印力量！动画——中忍考试篇02
+http://txtest-xp2p.p2p.huya.com/src/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="喝一碗杏仁茶 动画奥特曼中那些你不知道的秘密！" group-title="虎牙", 喝一碗杏仁茶 动画奥特曼中那些你不知道的秘密！
+http://txtest-xp2p.p2p.huya.com/src/1099531752759-1099531752759-86436143817555968-2199063628974-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="核桃姐姐 李连杰系列 武打高产王" group-title="虎牙", 核桃姐姐 李连杰系列 武打高产王
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="糊了的胡萝卜动画 【速看-足球小将16期】南葛遭遇强敌-小翼尝试曲线射门" group-title="虎牙", 糊了的胡萝卜动画 【速看-足球小将16期】南葛遭遇强敌-小翼尝试曲线射门
+http://txtest-xp2p.p2p.huya.com/src/2391983955-2391983955-10273492859281735680-4784091366-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="虎牙影院 【虎牙影院】沈腾经典片放映" group-title="虎牙", 虎牙影院 【虎牙影院】沈腾经典片放映
+http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="荒野达人 芈月和她的三个爱人" group-title="虎牙", 荒野达人 芈月和她的三个爱人
+http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="會唱歌的小野貓 胡八一胖子沙漠古城找鬼洞" group-title="虎牙", 會唱歌的小野貓 胡八一胖子沙漠古城找鬼洞
+http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="加班狗 yi馆笑传 oh天长地久" group-title="虎牙", 加班狗 yi馆笑传 oh天长地久
+http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="柯冉冉 龙men·老奸巨猾年掌柜" group-title="虎牙", 柯冉冉 龙men·老奸巨猾年掌柜
+http://txtest-xp2p.p2p.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="蜡笔小新·逗比少年欢乐多" group-title="虎牙", 蜡笔小新·逗比少年欢乐多
+https://epg.112114.xyz/huya/11352970
+#EXTINF:-1 tvg-name="老司机 成龍历险记·动画社会我阿福乌鸦坐飞机" group-title="虎牙", 老司机 成龍历险记·动画社会我阿福乌鸦坐飞机
+http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="乐高大师赛！创意惊人" group-title="虎牙", 乐高大师赛！创意惊人
+https://epg.112114.xyz/huya/26355776
+#EXTINF:-1 tvg-name="力哥視 恐怖电影找力哥" group-title="虎牙", 力哥視 恐怖电影找力哥
+http://txtest-xp2p.p2p.huya.com/src/1199557791348-1199557791348-5419886936686854144-2399115706152-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="利世-余小二 【龙珠超动画】召开力之大会32" group-title="虎牙", 利世-余小二 【龙珠超动画】召开力之大会32
+http://txtest-xp2p.p2p.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="良少聊漫威 《蜘蛛侠英雄远征》，神秘客的阴险狡诈，让蜘蛛侠陷入众矢之地" group-title="虎牙", 良少聊漫威 《蜘蛛侠英雄远征》，神秘客的阴险狡诈，让蜘蛛侠陷入众矢之地
+http://txtest-xp2p.p2p.huya.com/src/1199582668017-1199582668017-5526731416475271168-2399165459490-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="灵剑山·试炼开启" group-title="虎牙", 灵剑山·试炼开启
+https://epg.112114.xyz/huya/11352896
+#EXTINF:-1 tvg-name="凌莲 你怎么看待六子哥" group-title="虎牙", 凌莲 你怎么看待六子哥
+http://txtest-xp2p.p2p.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1-imgplus.xs
+#EXTINF:-1 tvg-name="领带哥 许三多军营成长史" group-title="虎牙", 领带哥 许三多军营成长史
+http://txtest-xp2p.p2p.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="路飞带领大家向顶上前进" group-title="虎牙", 路飞带领大家向顶上前进
+https://epg.112114.xyz/huya/16913382
+#EXTINF:-1 tvg-name="裸奔的蜗牛╮ 康熙·民间私访" group-title="虎牙", 裸奔的蜗牛╮ 康熙·民间私访
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="萌新司机 大秦，终章！" group-title="虎牙", 萌新司机 大秦，终章！
+http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="南西视频 动画路飞带领大家向顶上前进" group-title="虎牙", 南西视频 动画路飞带领大家向顶上前进
+http://txtest-xp2p.p2p.huya.com/src/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="昵称违规-QQFbPxwM1A 狄仁杰：元芳 你怎么看？" group-title="虎牙", 昵称违规-QQFbPxwM1A 狄仁杰：元芳 你怎么看？
+http://txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="胖虎噜噜噜 最后的假日" group-title="虎牙", 胖虎噜噜噜 最后的假日
+http://txtest-xp2p.p2p.huya.com/src/1199527202658-1199527202658-5288509513509371904-2399054528772-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="痞子帅叔叔 【超级交通站】抗ri情景喜剧" group-title="虎牙", 痞子帅叔叔 【超级交通站】抗ri情景喜剧
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="全优少年 【经典】桃园结义三兄弟" group-title="虎牙", 全优少年 【经典】桃园结义三兄弟
+http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="扫地僧 中国百年老字号百草厅" group-title="虎牙", 扫地僧 中国百年老字号百草厅
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="杀马特死神 看小品·春晚经典非看不可" group-title="虎牙", 杀马特死神 看小品·春晚经典非看不可
+http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="摄氏零度 易中天品三国" group-title="虎牙", 摄氏零度 易中天品三国
+http://txtest-xp2p.p2p.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="实力拔萝卜 搞笑恐怖类 弹幕护体" group-title="虎牙", 实力拔萝卜 搞笑恐怖类 弹幕护体
+http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="瞬间爆炸 身世神秘的范闲书写人生传奇" group-title="虎牙", 瞬间爆炸 身世神秘的范闲书写人生传奇
+http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="铁血真汉子 国产悬疑精选·智商在线" group-title="虎牙", 铁血真汉子 国产悬疑精选·智商在线
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="我是詹密 雍正皇帝的风云一生" group-title="虎牙", 我是詹密 雍正皇帝的风云一生
+http://txtest-xp2p.p2p.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="小木子先生丶 纪晓岚-岚宝珅宝的爱恨情仇" group-title="虎牙", 小木子先生丶 纪晓岚-岚宝珅宝的爱恨情仇
+http://txtest-xp2p.p2p.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.xs
+#EXTINF:-1 tvg-name="小时候玩不起的超帅玩具" group-title="虎牙", 小时候玩不起的超帅玩具
+https://epg.112114.xyz/huya/26355832
+#EXTINF:-1 tvg-name="小妖孽 在哪儿跌倒的还得在哪儿爬起来" group-title="虎牙", 小妖孽 在哪儿跌倒的还得在哪儿爬起来
+http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="鱼塘塘主张年年 新水hu·在下正是西公子！" group-title="虎牙", 鱼塘塘主张年年 新水hu·在下正是西公子！
+http://txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="止戈电影 豆瓣8.2，一部黑暗到骨子里的悬疑片，不是所有真相都能被接受" group-title="虎牙", 止戈电影 豆瓣8.2，一部黑暗到骨子里的悬疑片，不是所有真相都能被接受
+http://txtest-xp2p.p2p.huya.com/src/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="种瓜得弟弟 夏雪夏雨夏冰雹" group-title="虎牙", 种瓜得弟弟 夏雪夏雨夏冰雹
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="茱麗葉 葛二蛋成长之路" group-title="虎牙", 茱麗葉 葛二蛋成长之路
+http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白的一百年" group-title="虎牙", Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白的一百年
+http://txtest-xp2p.p2p.huya.com/src/1199532313878-1199532313878-5310462036252033024-2399064751212-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="DD-解说 新七龙珠动画，武林大会" group-title="虎牙", DD-解说 新七龙珠动画，武林大会
+http://txtest-xp2p.p2p.huya.com/src/1199588542242-1199588542242-5551961020739616768-2399177207940-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="DD-柠檬 僵尸  鬼片经典" group-title="虎牙", DD-柠檬 僵尸  鬼片经典
+http://txtest-xp2p.p2p.huya.com/src/1199582504831-1199582504831-5526030537942106112-2399165133118-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="DD-小秋 唐人街探案：你王姐归来吗？搞笑" group-title="虎牙", DD-小秋 唐人街探案：你王姐归来吗？搞笑
+http://txtest-xp2p.p2p.huya.com/src/1199512561102-1199512561102-5225624509326819328-2399025245660-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="HelloKitty 【猫和老鼠动画】汤姆和杰瑞的故事" group-title="虎牙", HelloKitty 【猫和老鼠动画】汤姆和杰瑞的故事
+http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="No1常在心 搞笑的一家人" group-title="虎牙", No1常在心 搞笑的一家人
+http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="SG-甜橙Q 秋名山89上山 奔驰上树" group-title="虎牙", SG-甜橙Q 秋名山89上山 奔驰上树
+http://txtest-xp2p.p2p.huya.com/src/1199586792263-1199586792263-5544444918165929984-2399173707982-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="Wang-我的女人 康熙大帝的传奇一生" group-title="虎牙", Wang-我的女人 康熙大帝的传奇一生
+http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="yao不能停 在外三藏獒，在家三二哈" group-title="虎牙", yao不能停 在外三藏獒，在家三二哈
+http://txtest-xp2p.p2p.huya.com/src/1524418106-1524418106-6547325910700261376-3048959668-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="【斗气一族】青涩周星星『埋堆』" group-title="埋堆堆", 【斗气一族】青涩周星星『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="阿爷厨房第2季『埋堆』" group-title="埋堆堆", 阿爷厨房第2季『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="爱·回家-经典TVB爱情故事『埋堆』" group-title="埋堆堆", 爱·回家-经典TVB爱情故事『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="宠物情缘-古天乐与郑秀文因宠物结缘『埋堆』" group-title="埋堆堆", 宠物情缘-古天乐与郑秀文因宠物结缘『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="楚汉骄雄-我恨做皇后 但我做刘邦的皇后『埋堆』" group-title="埋堆堆", 楚汉骄雄-我恨做皇后 但我做刘邦的皇后『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="楚留香-TVB经典『埋堆』" group-title="埋堆堆", 楚留香-TVB经典『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="法证先锋是大宝贝『埋堆』" group-title="埋堆堆", 法证先锋是大宝贝『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="封神榜-陈浩民版哪吒『埋堆』" group-title="埋堆堆", 封神榜-陈浩民版哪吒『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="鬼同你『埋堆』" group-title="埋堆堆", 鬼同你『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="洪武三十二·陈键锋竟然在澡堂对马德钟『埋堆』" group-title="埋堆堆", 洪武三十二·陈键锋竟然在澡堂对马德钟『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="黄jin有罪-悬疑爱好聚集地『埋堆』" group-title="埋堆堆", 黄jin有罪-悬疑爱好聚集地『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="奸人语录iTVB大后宫『埋堆』" group-title="埋堆堆", 奸人语录iTVB大后宫『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="今生无悔音粤无国界『埋堆』" group-title="埋堆堆", 今生无悔音粤无国界『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="经典武侠-雪山飞狐 黄日华版『埋堆』" group-title="埋堆堆", 经典武侠-雪山飞狐 黄日华版『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="看孙悟空唐三藏取西经『埋堆』" group-title="埋堆堆", 看孙悟空唐三藏取西经『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="难兄难弟-吴镇宇罗嘉良『埋堆』" group-title="埋堆堆", 难兄难弟-吴镇宇罗嘉良『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="难兄难弟-吴镇宇罗嘉良的兄弟情『埋堆』" group-title="埋堆堆", 难兄难弟-吴镇宇罗嘉良的兄弟情『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="七公主驾到『埋堆』" group-title="埋堆堆", 七公主驾到『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="情事缉私档案-郭晋安郭蔼明的爱恨情仇『埋堆』" group-title="埋堆堆", 情事缉私档案-郭晋安郭蔼明的爱恨情仇『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="射雕之九阴真经-姜大卫 张智霖『埋堆』" group-title="埋堆堆", 射雕之九阴真经-姜大卫 张智霖『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="食为奴·王祖蓝的嘴万绮雯的腿『埋堆』" group-title="埋堆堆", 食为奴·王祖蓝的嘴万绮雯的腿『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="天地争霸美猴王粤语版『埋堆』" group-title="埋堆堆", 天地争霸美猴王粤语版『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="新上海滩-上海的爱恨情仇『埋堆』" group-title="埋堆堆", 新上海滩-上海的爱恨情仇『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="秀才遇到兵-演喜剧的陈豪『埋堆』" group-title="埋堆堆", 秀才遇到兵-演喜剧的陈豪『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="倚天屠龙记】梁朝伟版张无忌『埋堆』" group-title="埋堆堆", 倚天屠龙记】梁朝伟版张无忌『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="张卫健版西游记-当蜘蛛精看上了齐天大圣我是靓宝『埋堆』" group-title="埋堆堆", 张卫健版西游记-当蜘蛛精看上了齐天大圣我是靓宝『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="状王宋世杰-第二部-张达明大战黄子华『埋堆』" group-title="埋堆堆", 状王宋世杰-第二部-张达明大战黄子华『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="EU超时任务『埋堆』" group-title="埋堆堆", EU超时任务『埋堆』
+http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
+#EXTINF:-1 tvg-name="安多卫视" group-title="卫视", 安多卫视
+http://111.40.196.28/PLTV/88888888/224/3221225666/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="安多卫视" group-title="卫视", 安多卫视
+http://111.20.33.70/PLTV/88888893/224/3221226228/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://111.20.33.93/TVOD/88888893/224/3221226196/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://39.134.65.141/PLTV/88888888/224/3221225925/1.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://111.20.33.70/PLTV/88888893/224/3221226203/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://111.20.33.93/TVOD/88888893/224/3221226203/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://111.20.33.70/PLTV/88888893/224/3221226196/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://111.40.196.32/PLTV/88888888/224/3221225527/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://39.135.138.59:18890/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://111.20.33.93/TVOD/88888893/224/3221226222/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://111.20.33.70/PLTV/88888893/224/3221226222/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://111.40.196.25/PLTV/88888888/224/3221225540/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视", 兵团卫视
+http://111.40.196.31/PLTV/88888888/224/3221225637/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视", 兵团卫视
+http://111.20.33.70/PLTV/88888893/224/3221226214/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://39.135.138.60:18890/TVOD/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://39.135.138.60:18890/TVOD/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://111.40.196.31/PLTV/88888888/224/3221225514/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://111.20.33.70/PLTV/88888893/224/3221226202/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://39.134.66.110/PLTV/88888888/224/3221225963/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://111.20.33.70/PLTV/88888893/224/3221226217/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://39.134.66.110/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://111.20.33.93/TVOD/88888893/224/3221226217/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视", 东方卫视
+http://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视蓝光" group-title="卫视", 东方卫视蓝光
+http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视", 东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视", 东南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视", 东南卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视", 东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视", 东南卫视
+http://111.40.196.28/PLTV/88888888/224/3221225583/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视", 东南卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视", 甘肃卫视
+http://39.134.35.199/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视", 甘肃卫视
+http://111.40.196.28/PLTV/88888888/224/3221225639/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视", 甘肃卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视", 甘肃卫视
+http://39.136.48.26:8089/PLTV/88888888/224/3221226387/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视", 甘肃卫视
+http://39.136.48.26:8089/PLTV/88888888/224/3221226387/1.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221226213/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://111.40.196.32/PLTV/88888888/224/3221225533/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://111.40.196.31/PLTV/88888888/224/3221225531/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://111.20.33.93/TVOD/88888893/224/3221226216/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://111.20.33.70/PLTV/88888893/224/3221226216/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视", 广西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视", 广西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视", 广西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视", 贵州卫视
+http://39.134.65.151/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视", 贵州卫视
+http://39.134.66.110/PLTV/88888888/224/3221225974/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视", 贵州卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视", 贵州卫视
+http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视", 贵州卫视
+http://39.134.65.145/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视", 贵州卫视
+http://39.134.65.141/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 tvg-name="海南卫视" group-title="卫视", 海南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视", 河北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视", 河北卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视", 河北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视", 河南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221226148/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
+http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
+http://111.20.33.93/TVOD/88888893/224/3221226215/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
+http://39.135.138.58:18890/TVOD/88888888/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
+http://39.135.34.144:8080/000000001000/1000000001000009082/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视", 黑龙江卫视
+http://111.20.33.70/PLTV/88888893/224/3221226215/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://111.20.33.70/PLTV/88888893/224/3221226206/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://111.20.33.70/PLTV/88888893/224/3221226194/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://111.20.33.93/TVOD/88888893/224/3221226206/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://111.20.33.93/TVOD/88888893/224/3221226194/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://39.136.48.18:8089/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8?zweid
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://111.40.196.28/PLTV/88888888/224/3221225519/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://111.20.33.93/TVOD/88888893/224/3221226211/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225977/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视", 吉林卫视
+http://39.134.65.145/PLTV/88888888/224/3221225981/1.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视", 吉林卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视", 吉林卫视
+http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视", 吉林卫视
+http://39.134.65.151/PLTV/88888888/224/3221225981/1.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视", 吉林卫视
+http://39.134.66.110/PLTV/88888888/224/3221225981/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视", 吉林卫视
+http://39.134.65.141/PLTV/88888888/224/3221225981/1.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221226211/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://39.134.65.208/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://39.134.66.110/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://111.40.196.31/PLTV/88888888/224/3221225515/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://111.20.33.93/TVOD/88888893/224/3221226200/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://39.135.34.144:8080/000000001000/1000000001000013731/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://ncyd.jilu8.cn/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://111.40.196.30/PLTV/88888888/224/3221225560/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://39.134.116.30:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" group-title="卫视", 康巴卫视
+http://111.40.196.38/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" group-title="卫视", 康巴卫视
+http://111.20.33.70/PLTV/88888893/224/3221226234/index.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" group-title="卫视", 康巴卫视
+http://111.40.196.38/PLTV/88888888/224/3221225648/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://111.40.196.34/PLTV/88888888/224/3221225593/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://111.20.33.70/PLTV/88888893/224/3221226210/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225601/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://111.40.196.9/PLTV/88888888/224/3221225558/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://111.20.33.93/TVOD/88888893/224/3221226210/index.m3u8
+#EXTINF:-1 tvg-name="龙江卫视" group-title="卫视", 龙江卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-name="南方卫视" group-title="卫视", 南方卫视
+http://111.20.33.70/PLTV/88888893/224/3221226218/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视", 内蒙古卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视", 宁夏卫视
+http://111.40.196.29/PLTV/88888888/224/3221225641/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视", 宁夏卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视超清" group-title="卫视", 宁夏卫视超清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-name="农林卫视" group-title="卫视", 农林卫视
+http://111.20.33.70/PLTV/88888893/224/3221226229/index.m3u8
+#EXTINF:-1 tvg-name="青海安多卫视" group-title="卫视", 青海安多卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视", 青海卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视", 青海卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视", 厦门卫视
+http://111.40.196.32/PLTV/88888888/224/3221225643/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视", 厦门卫视
+http://111.20.33.70/PLTV/88888893/224/3221226219/index.m3u8
+#EXTINF:-1 tvg-name="山东教育卫视" group-title="卫视", 山东教育卫视
+http://111.20.33.70/PLTV/88888893/224/3221226238/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://111.40.196.30/PLTV/88888888/224/3221225543/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://111.20.33.70/PLTV/88888893/224/3221226209/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://111.20.33.93/TVOD/88888893/224/3221226209/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视", 山西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-name="陕西农林卫视" group-title="卫视", 陕西农林卫视
+http://111.20.33.93/PLTV/88888893/224/3221226229/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视", 陕西卫视
+http://122.228.87.30:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视", 陕西卫视
+http://61.164.158.23:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视", 陕西卫视
+http://122.228.87.26:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视", 陕西卫视
+http://61.164.158.161:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视", 陕西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视", 陕西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视", 陕西卫视
+http://122.228.87.14:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视", 陕西卫视
+http://111.20.33.70/PLTV/88888893/224/3221226246/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视", 陕西卫视
+http://111.20.33.70/PLTV/88888893/224/3221225821/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225741/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://39.134.66.110/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://111.40.196.25/PLTV/88888888/224/3221225537/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://111.20.33.70/PLTV/88888893/224/3221226205/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视", 四川卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://111.20.33.93/TVOD/88888893/224/3221226204/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://111.40.196.32/PLTV/88888888/224/3221225597/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://111.20.33.70/PLTV/88888893/224/3221226204/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视", 西藏卫视
+http://111.20.33.70/PLTV/88888893/224/3221226212/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视", 西藏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视", 西藏卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视高清" group-title="卫视", 西藏卫视高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视", 新疆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225725/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视", 新疆卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视", 新疆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" group-title="卫视", 延边卫视
+http://111.20.33.70/PLTV/88888893/224/3221226220/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视", 云南卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视", 云南卫视
+http://111.40.196.29/PLTV/88888888/224/3221225644/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.134.66.2/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.134.65.208/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://111.20.33.93/TVOD/88888893/224/3221226199/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://111.20.33.70/PLTV/88888893/224/3221226199/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221225585/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/1.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://111.40.196.25/PLTV/88888888/224/3221225510/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-name="安多卫视" group-title="卫视", 安多卫视
+http://111.40.196.28/PLTV/88888888/224/3221225666/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视", 安徽卫视
+http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://111.40.196.32/PLTV/88888888/224/3221225527/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视", 北京卫视
+http://111.40.196.25/PLTV/88888888/224/3221225540/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视", 兵团卫视
+http://111.40.196.31/PLTV/88888888/224/3221225637/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视", 重庆卫视
+http://111.40.196.31/PLTV/88888888/224/3221225514/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视", 东南卫视
+http://111.40.196.28/PLTV/88888888/224/3221225583/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视", 甘肃卫视
+http://111.40.196.28/PLTV/88888888/224/3221225639/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://111.40.196.32/PLTV/88888888/224/3221225533/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视", 广东卫视
+http://111.40.196.31/PLTV/88888888/224/3221225531/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="海南卫视" group-title="卫视", 海南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视", 湖北卫视
+http://111.40.196.30/PLTV/88888888/224/3221225547/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://111.40.196.28/PLTV/88888888/224/3221225519/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视", 湖南卫视
+http://111.40.196.30/PLTV/88888888/224/3221225554/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视", 江苏卫视
+http://111.40.196.31/PLTV/88888888/224/3221225515/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视", 江西卫视
+http://111.40.196.30/PLTV/88888888/224/3221225560/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="康巴卫视" group-title="卫视", 康巴卫视
+http://111.40.196.38/PLTV/88888888/224/3221225648/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视", 辽宁卫视
+http://111.40.196.34/PLTV/88888888/224/3221225593/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视", 内蒙古卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225846/index.m3u8?servicetype=1?zweimd
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视", 宁夏卫视
+http://111.40.196.29/PLTV/88888888/224/3221225641/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视", 厦门卫视
+http://111.40.196.32/PLTV/88888888/224/3221225643/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", 山东卫视
+http://111.40.196.30/PLTV/88888888/224/3221225543/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://111.40.196.25/PLTV/88888888/224/3221225537/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视", 深圳卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225741/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视", 天津卫视
+http://111.40.196.32/PLTV/88888888/224/3221225597/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视", 云南卫视
+http://111.40.196.29/PLTV/88888888/224/3221225644/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://111.40.196.25/PLTV/88888888/224/3221225510/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视", 浙江卫视
+http://117.148.179.136/PLTV/88888888/224/3221231567/index.m3u8?zweimd
+#EXTINF:-1 tvg-name="【海绵宝宝】1-13季24H循环" group-title="B站", 【海绵宝宝】1-13季24H循环
+http://zzy789.xyz/bili.php?id=14495324
+#EXTINF:-1 tvg-name="【蜡笔小新】国语高清，24小时直播哦！" group-title="B站", 【蜡笔小新】国语高清，24小时直播哦！
+http://zzy789.xyz/bili.php?id=10375360
+#EXTINF:-1 tvg-name="【蜡笔小新】绝版画质" group-title="B站", 【蜡笔小新】绝版画质
+http://zzy789.xyz/bili.php?id=21570935
+#EXTINF:-1 tvg-name="24小时连播蓝胖子" group-title="B站", 24小时连播蓝胖子
+http://zzy789.xyz/bili.php?id=482946
+#EXTINF:-1 tvg-name="动画狂欢曲-芭比" group-title="B站", 动画狂欢曲-芭比
+http://zzy789.xyz/bili.php?id=662181
+#EXTINF:-1 tvg-name="海绵宝宝央配" group-title="B站", 海绵宝宝央配
+http://zzy789.xyz/bili.php?id=4355330
+#EXTINF:-1 tvg-name="蜡笔小新" group-title="B站", 蜡笔小新
+http://zzy789.xyz/bili.php?id=1895574
+#EXTINF:-1 tvg-name="童年回忆丨守护甜心丨全三季轮播" group-title="B站", 童年回忆丨守护甜心丨全三季轮播
+http://zzy789.xyz/bili.php?id=14434
+#EXTINF:-1 tvg-name="涂糊涂的蜡笔小新" group-title="B站", 涂糊涂的蜡笔小新
+http://zzy789.xyz/bili.php?id=49132
+#EXTINF:-1 tvg-name="野原新之助蜡笔小新新番24H随机播放" group-title="B站", 野原新之助蜡笔小新新番24H随机播放
+http://zzy789.xyz/bili.php?id=21507503
+#EXTINF:-1 tvg-name="樱桃小丸子国语台配" group-title="B站", 樱桃小丸子国语台配
+http://zzy789.xyz/bili.php?id=11765640
+#EXTINF:-1 tvg-name="樱桃小丸子蜡笔小新蓝光特别版" group-title="B站", 樱桃小丸子蜡笔小新蓝光特别版
+http://zzy789.xyz/bili.php?id=21614203
+#EXTINF:-1 tvg-name="樱桃小丸子台配国语24小时轮播" group-title="B站", 樱桃小丸子台配国语24小时轮播
+http://zzy789.xyz/bili.php?id=23242774
+#EXTINF:-1 tvg-name="咱们裸熊！24小时循环直播！" group-title="B站", 咱们裸熊！24小时循环直播！
+http://zzy789.xyz/bili.php?id=11168667
+#EXTINF:-1 tvg-name="中华小当家/中华一番东方零食总部" group-title="B站", 中华小当家/中华一番东方零食总部
+http://zzy789.xyz/bili.php?id=655291
+#EXTINF:-1 tvg-name="【贝爷影厅】经典科幻动作灾难巨兽" group-title="斗鱼", 【贝爷影厅】经典科幻动作灾难巨兽
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 tvg-name="【贝爷MAX厅】科幻动作经典喜剧" group-title="斗鱼", 【贝爷MAX厅】科幻动作经典喜剧
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 tvg-name="【超级赛亚人】悟吉塔" group-title="斗鱼", 【超级赛亚人】悟吉塔
+http://epg.112114.xyz/douyu/7190773
+#EXTINF:-1 tvg-name="【动画电影】童年回忆" group-title="斗鱼", 【动画电影】童年回忆
+http://epg.112114.xyz/douyu/10395973
+#EXTINF:-1 tvg-name="【动漫】24小时不间断动漫专场" group-title="斗鱼", 【动漫】24小时不间断动漫专场
+http://epg.112114.xyz/douyu/7493575
+#EXTINF:-1 tvg-name="【动漫】超燃怀旧经典" group-title="斗鱼", 【动漫】超燃怀旧经典
+http://epg.112114.xyz/douyu/1174353
+#EXTINF:-1 tvg-name="【动漫】记录你的王者峡谷生活~" group-title="斗鱼", 【动漫】记录你的王者峡谷生活~
+http://epg.112114.xyz/douyu/9360149
+#EXTINF:-1 tvg-name="【回首往事】仨房间画面同步显示" group-title="斗鱼", 【回首往事】仨房间画面同步显示
+http://epg.112114.xyz/douyu/1569773
+#EXTINF:-1 tvg-name="【经典动漫】9455567" group-title="斗鱼", 【经典动漫】9455567
+http://epg.112114.xyz/douyu/9455567
+#EXTINF:-1 tvg-name="【柯南】外表看似小孩，智慧却过于常人" group-title="斗鱼", 【柯南】外表看似小孩，智慧却过于常人
+http://epg.112114.xyz/douyu/6484910
+#EXTINF:-1 tvg-name="【科幻Fans】精彩科幻影视，解说连连看" group-title="斗鱼", 【科幻Fans】精彩科幻影视，解说连连看
+http://epg.112114.xyz/douyu/3508304
+#EXTINF:-1 tvg-name="【猫和老鼠】汤姆和杰瑞童年回忆" group-title="斗鱼", 【猫和老鼠】汤姆和杰瑞童年回忆
+http://epg.112114.xyz/douyu/7888428
+#EXTINF:-1 tvg-name="【牛叔】N分钟带你看完大片" group-title="斗鱼", 【牛叔】N分钟带你看完大片
+http://epg.112114.xyz/douyu/2758565
+#EXTINF:-1 tvg-name="【女神金】60帧极致蓝光刀刀陪看" group-title="斗鱼", 【女神金】60帧极致蓝光刀刀陪看
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 tvg-name="【三笠】根本不存在解不开的迷！" group-title="斗鱼", 【三笠】根本不存在解不开的迷！
+http://epg.112114.xyz/douyu/7050342
+#EXTINF:-1 tvg-name="【神剧】经典神剧" group-title="斗鱼", 【神剧】经典神剧
+http://epg.112114.xyz/douyu/3700024
+#EXTINF:-1 tvg-name="【天使点播】动漫直播间" group-title="斗鱼", 【天使点播】动漫直播间
+http://epg.112114.xyz/douyu/1487654
+#EXTINF:-1 tvg-name="【童年往事】仨房间画面同步显示点播" group-title="斗鱼", 【童年往事】仨房间画面同步显示点播
+http://epg.112114.xyz/douyu/7256376
+#EXTINF:-1 tvg-name="【西游】由爱故生怨，怨恨交缠，那又何苦" group-title="斗鱼", 【西游】由爱故生怨，怨恨交缠，那又何苦
+http://epg.112114.xyz/douyu/9518204
+#EXTINF:-1 tvg-name="【小叮当】童年经典动画片" group-title="斗鱼", 【小叮当】童年经典动画片
+http://epg.112114.xyz/douyu/9445279
+#EXTINF:-1 tvg-name="【星星动画】童年热血搞笑爱情" group-title="斗鱼", 【星星动画】童年热血搞笑爱情
+http://epg.112114.xyz/douyu/4369939
+#EXTINF:-1 tvg-name="【追忆】国语超清动画电影" group-title="斗鱼", 【追忆】国语超清动画电影
+http://epg.112114.xyz/douyu/6449849
+#EXTINF:-1 tvg-name="【Hunter】动漫热血老贼冒险" group-title="斗鱼", 【Hunter】动漫热血老贼冒险
+http://epg.112114.xyz/douyu/6610883
+#EXTINF:-1 tvg-name="【RM-点播】点播！模式-24H欢乐不断" group-title="斗鱼", 【RM-点播】点播！模式-24H欢乐不断
+http://epg.112114.xyz/douyu/131977
+#EXTINF:-1 tvg-name="【RM-轮播】轮播！模式-24H欢乐不断" group-title="斗鱼", 【RM-轮播】轮播！模式-24H欢乐不断
+http://epg.112114.xyz/douyu/7298973
+#EXTINF:-1 tvg-name="♥卡面来打♥" group-title="斗鱼", ♥卡面来打♥
+http://epg.112114.xyz/douyu/1218414
+#EXTINF:-1 tvg-name="✨✨✨计划！五一节の快乐✨✨✨" group-title="斗鱼", ✨✨✨计划！五一节の快乐✨✨✨
+http://epg.112114.xyz/douyu/7528160
+#EXTINF:-1 tvg-name="✨动漫✨热血木叶忍者草帽路飞青春" group-title="斗鱼", ✨动漫✨热血木叶忍者草帽路飞青春
+http://epg.112114.xyz/douyu/206858
+#EXTINF:-1 tvg-name="✨妖精的直播间✨" group-title="斗鱼", ✨妖精的直播间✨
+http://epg.112114.xyz/douyu/5960746
+#EXTINF:-1 tvg-name="宝可梦加油。感谢大家。" group-title="斗鱼", 宝可梦加油。感谢大家。
+http://epg.112114.xyz/douyu/9765742
+#EXTINF:-1 tvg-name="草帽丶海贼团的直播间" group-title="斗鱼", 草帽丶海贼团的直播间
+http://epg.112114.xyz/douyu/997925
+#EXTINF:-1 tvg-name="大星与海绵方块" group-title="斗鱼", 大星与海绵方块
+http://epg.112114.xyz/douyu/3949681
+#EXTINF:-1 tvg-name="狄仁杰：想听听我的故事吗" group-title="斗鱼", 狄仁杰：想听听我的故事吗
+http://epg.112114.xyz/douyu/674441
+#EXTINF:-1 tvg-name="动漫二次元#补番推荐#" group-title="斗鱼", 动漫二次元#补番推荐#
+http://epg.112114.xyz/douyu/9429545
+#EXTINF:-1 tvg-name="动漫推荐官方直播间" group-title="斗鱼", 动漫推荐官方直播间
+http://epg.112114.xyz/douyu/5187099
+#EXTINF:-1 tvg-name="二次元放映室，有呐味儿了!" group-title="斗鱼", 二次元放映室，有呐味儿了!
+http://epg.112114.xyz/douyu/8912038
+#EXTINF:-1 tvg-name="海绵与大星直播间" group-title="斗鱼", 海绵与大星直播间
+http://epg.112114.xyz/douyu/2250349
+#EXTINF:-1 tvg-name="江户川柯南，是一个蒸蛋。" group-title="斗鱼", 江户川柯南，是一个蒸蛋。
+http://epg.112114.xyz/douyu/5377297
+#EXTINF:-1 tvg-name="开心锤锤，开心快乐每一天！" group-title="斗鱼", 开心锤锤，开心快乐每一天！
+http://epg.112114.xyz/douyu/9018297
+#EXTINF:-1 tvg-name="老爹:还有一件事" group-title="斗鱼", 老爹:还有一件事
+http://epg.112114.xyz/douyu/7134757
+#EXTINF:-1 tvg-name="鲁过一世的直播间" group-title="斗鱼", 鲁过一世的直播间
+http://epg.112114.xyz/douyu/9716515
+#EXTINF:-1 tvg-name="美味！蟹黄堡" group-title="斗鱼", 美味！蟹黄堡
+http://epg.112114.xyz/douyu/8762358
+#EXTINF:-1 tvg-name="浦饭幽游藏马飞影桑原" group-title="斗鱼", 浦饭幽游藏马飞影桑原
+http://epg.112114.xyz/douyu/9938431
+#EXTINF:-1 tvg-name="少女与半妖" group-title="斗鱼", 少女与半妖
+http://epg.112114.xyz/douyu/7422897
+#EXTINF:-1 tvg-name="松开的手0.0" group-title="斗鱼", 松开的手0.0
+http://epg.112114.xyz/douyu/10210568
+#EXTINF:-1 tvg-name="舔狗波比的幸福生活" group-title="斗鱼", 舔狗波比的幸福生活
+http://epg.112114.xyz/douyu/7620081
+#EXTINF:-1 tvg-name="铁头与橘子（每周更新一起看霸总）" group-title="斗鱼", 铁头与橘子（每周更新一起看霸总）
+http://epg.112114.xyz/douyu/9450942
+#EXTINF:-1 tvg-name="万年如一柯播南，各位给点电费吧" group-title="斗鱼", 万年如一柯播南，各位给点电费吧
+http://epg.112114.xyz/douyu/1783144
+#EXTINF:-1 tvg-name="笑出腹肌动漫0" group-title="斗鱼", 笑出腹肌动漫0
+http://epg.112114.xyz/douyu/8380708
+#EXTINF:-1 tvg-name="星矢-燃烧吧我的小宇宙" group-title="斗鱼", 星矢-燃烧吧我的小宇宙
+http://epg.112114.xyz/douyu/8458270
+#EXTINF:-1 tvg-name="中二日记搞笑日常更新" group-title="斗鱼", 中二日记搞笑日常更新
+http://epg.112114.xyz/douyu/9505575
+#EXTINF:-1 tvg-name="最好看的搞笑篮球动漫" group-title="斗鱼", 最好看的搞笑篮球动漫
+http://epg.112114.xyz/douyu/9401305
+#EXTINF:-1 tvg-name="最新奇幻电影解说-宇宙无敌韩三金" group-title="斗鱼", 最新奇幻电影解说-宇宙无敌韩三金
+http://epg.112114.xyz/douyu/3194372
+#EXTINF:-1 tvg-name="《地下交通站》" group-title="歪歪", 《地下交通站》
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29907996
+#EXTINF:-1 tvg-name="【电视剧" group-title="歪歪", 【电视剧
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1453059740
+#EXTINF:-1 tvg-name="【电影】超然巨作" group-title="歪歪", 【电影】超然巨作
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26623173
+#EXTINF:-1 tvg-name="【林正英】鬼片" group-title="歪歪", 【林正英】鬼片
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34229877
+#EXTINF:-1 tvg-name="【周星驰】经典搞笑堵片" group-title="歪歪", 【周星驰】经典搞笑堵片
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
+#EXTINF:-1 tvg-name="24小时蓝光片" group-title="歪歪", 24小时蓝光片
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
+#EXTINF:-1 tvg-name="成龙" group-title="歪歪", 成龙
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
+#EXTINF:-1 tvg-name="狄仁杰1-4部" group-title="歪歪", 狄仁杰1-4部
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351755386
+#EXTINF:-1 tvg-name="电视剧" group-title="歪歪", 电视剧
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29216766
+#EXTINF:-1 tvg-name="电影 超好看" group-title="歪歪", 电影 超好看
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29460894
+#EXTINF:-1 tvg-name="顶级欧美电影" group-title="歪歪", 顶级欧美电影
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
+#EXTINF:-1 tvg-name="动画片莽荒纪" group-title="歪歪", 动画片莽荒纪
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930977
+#EXTINF:-1 tvg-name="港剧悬疑破案" group-title="歪歪", 港剧悬疑破案
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=10425097
+#EXTINF:-1 tvg-name="鬼吹灯全集" group-title="歪歪", 鬼吹灯全集
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1331686180
+#EXTINF:-1 tvg-name="国产玄幻" group-title="歪歪", 国产玄幻
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354143978
+#EXTINF:-1 tvg-name="好片看不停" group-title="歪歪", 好片看不停
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28205255
+#EXTINF:-1 tvg-name="亮剑" group-title="歪歪", 亮剑
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353392400
+#EXTINF:-1 tvg-name="林正英搞笑僵尸" group-title="歪歪", 林正英搞笑僵尸
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
+#EXTINF:-1 tvg-name="林正英鬼片500部" group-title="歪歪", 林正英鬼片500部
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
+#EXTINF:-1 tvg-name="那些年[动画]" group-title="歪歪", 那些年[动画]
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351417866
+#EXTINF:-1 tvg-name="欧美科幻" group-title="歪歪", 欧美科幻
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
+#EXTINF:-1 tvg-name="神雕侠侣倚天屠龙" group-title="歪歪", 神雕侠侣倚天屠龙
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351762426
+#EXTINF:-1 tvg-name="神探狄仁杰" group-title="歪歪", 神探狄仁杰
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=38338029
+#EXTINF:-1 tvg-name="隋唐英雄" group-title="歪歪", 隋唐英雄
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352475619
+#EXTINF:-1 tvg-name="天龙八部" group-title="歪歪", 天龙八部
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351814644
+#EXTINF:-1 tvg-name="天龙倚天笑傲" group-title="歪歪", 天龙倚天笑傲
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351814644
+#EXTINF:-1 tvg-name="武侠玄幻" group-title="歪歪", 武侠玄幻
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28099939
+#EXTINF:-1 tvg-name="香港搞笑鬼片" group-title="歪歪", 香港搞笑鬼片
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227227
+#EXTINF:-1 tvg-name="燕双鹰专场" group-title="歪歪", 燕双鹰专场
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227153
+#EXTINF:-1 tvg-name="一起来看电影吧" group-title="歪歪", 一起来看电影吧
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354210357
+#EXTINF:-1 tvg-name="英叔全集电影" group-title="歪歪", 英叔全集电影
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
